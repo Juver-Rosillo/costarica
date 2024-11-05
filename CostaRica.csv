@@ -1,0 +1,3337 @@
+﻿country_name;package_geo_state;Count ( distinct package_id)
+-;San Jose;14754
+-;Alajuela;11647
+-;Heredia;6151
+-;Cartago;5157
+-;Puntarenas;4251
+-;Guanacaste;3805
+-;Limon;2530
+-;san jose;1876
+-;San jose;1534
+-;San Jose Province;1348
+-;alajuela;1200
+-;Alajuela Province;798
+-;Costa Rica;743
+-;puntarenas;697
+-;limon;654
+-;cartago;619
+-;heredia;570
+-;guanacaste;492
+-;Provincia de Alajuela;465
+-;Heredia Province;390
+-;Cartago Province;314
+-;Puntarenas Province;312
+-;San Carlos;301
+-;Guanacaste Province;279
+-;Desamparados;264
+-;SAN JOSE;262
+-;ALAJUELA;233
+-;san Jose;205
+-;Provincia de Puntarenas;199
+-;Provincia de Cartago;186
+-;Limon Province;182
+-;costa rica;167
+-;Moravia;147
+-;HEREDIA;142
+-;San Rafael;136
+-;Curridabat;134
+-;Palmares;116
+-;CARTAGO;110
+-;Poas;110
+-;Perez Zeledon;106
+-;Grecia;98
+-;Santo Domingo;95
+-;central;89
+-;Provincia de Guanacaste;89
+-;Goicoechea;86
+-;Pavas;85
+-;San Ramon;85
+-;Escazu;83
+-;Naranjo;79
+-;desamparados;78
+-;San Jose Costa Rica;78
+-;San Pablo;76
+-;Belen;74
+-;San Jose, Costa Rica;72
+-;Guapiles;71
+-;Santa Barbara;71
+-;GUANACASTE;68
+-;Atenas;66
+-;doral;66
+-;Sanjose;66
+-;Turrialba;66
+-;Montes de Oca;64
+-;sanjose;62
+-;Guanacaste, cabo velas district;61
+-;Alajuelita;60
+-;Costa rica;58
+-;Puriscal;57
+-;bataan matina limon;56
+-;Liberia;56
+-;Santa Cruz;55
+-;Central;52
+-;Esparza;52
+-;Alajuela, San Carlos;51
+-;San Francisco;51
+-;Aserri;47
+-;jaco;47
+-;Paraiso;47
+-;Barva;46
+-;Buenos Aires;46
+-;Cartago,;45
+-;San Isidro;45
+-;LIMON;43
+-;Pococi;43
+-;Upala;43
+-;limon guapiles guapiles;42
+-;Guadalupe;39
+-;san carlos;39
+-;Sarapiqui;39
+-;casa de 2 plantas verjas color rojo;38
+-;paraiso;38
+-;San Carlos, Alajuela;38
+-;San Sebastian;38
+-;Siquirres;38
+-;Tibas;38
+-;COSTA RICA;37
+-;Puntarenas, Esparza, Macacona;37
+-;Orotina;36
+-;tibas;35
+-;san jose costa rica;34
+-;Desamparados San Jose;33
+-;perez zeledon;33
+-;Puntarena;33
+-;Acosta;32
+-;Provincia de San Jose;31
+-;sarapiqui;31
+-;curridabat;30
+-;Oreamuno;30
+-;Quepos;30
+-;Santa Ana;30
+-;Zapote;30
+-;chorotega;29
+-;medley;29
+-;Alajuela, Costa Rica;28
+-;Atenas Centro;28
+-;guacimo;28
+-;Heredia, Costa Rica;28
+-;herradura,puntarenas,garabito;28
+-;pavas;28
+-;Rohrmoser;28
+-;San Jose, Santa Ana;28
+-;Santa Ana, Rio Oro;28
+-;Mata Redonda;27
+-;Perez zeledon;27
+-;San Pablo de Heredia;27
+-;Atenas, Alajuela;26
+-;Heredia centro;26
+-;San Juan;26
+-;Tejar del Guarco;26
+-;Alajuelita, concepcion abajo;25
+-;Matina;25
+-;PUNTARENAS;25
+-;San Jose, San Jose, Goicoechea, Purral;25
+-;Hojancha;24
+-;San José;24
+-;San Juan de Tibas;24
+-;Talamanca;24
+-;Barranca;23
+-;Calle Blancos;23
+-;Costa Rica, Palmares, Alajuela;23
+-;Jaco;23
+-;limon 7300.SOLO SUCURSAL..;23
+-;palmares;23
+-;pococi;23
+-;San carlos;23
+-;Santiago;23
+-;Cartago, Correos CR;22
+-;Guacimo;22
+-;Guanacaste,CR;22
+-;Guapiles Limon;22
+-;poas;22
+-;Provincia de Heredia;22
+-;San pedro;22
+-;SANTA BARBARA;22
+-;zapote;22
+-;Zarcero;22
+-;alajuela coyol;21
+-;Cartago, Costa Rica;21
+-;Sabanilla Montes de Oca;21
+-;San Isidro, Tacacori;21
+-;San Ramon Alajuela;21
+-;alajuelita;20
+-;Casa Blanca al lado izquierdo porton negro;20
+-;CostaRica;20
+-;La Union;20
+-;Oriental;20
+-;pacifico central;20
+-;PAVAS;20
+-;puntarenas centro;20
+-;quepos;20
+-;San Antonio desamparados;20
+-;tres rios;20
+-;Turrucares;20
+-;Alajuela/San Carlos;19
+-;El Roble;19
+-;Florida;19
+-;La Garita;19
+-;Plamares;19
+-;Puntarenas, Costa Rica;19
+-;Residencial EL Bosque;19
+-;San Jose, Desamparador, San Rafael Abajo;19
+-;San Jose, Perez Zeledon;19
+-;San sebastian;19
+-;santa barbara;19
+-;Ulloa;19
+-;Alajuela,San Carlos, La fortuna;18
+-;Alajuela/Alajuela/Guacima;18
+-;Cartago, Cartago;18
+-;Coronado;18
+-;coronando;18
+-;Doral;18
+-;Heredia/Santa Barbara;18
+-;Lagunilla de Heredia. Ulloa;18
+-;Patalillo;18
+-;puriscal;18
+-;San Jose Central;18
+-;San Jose Hatillo Centro;18
+-;san Jose, Uruca;18
+-;san jose/ cartago/tejar;18
+-;San Pedro;18
+-;San Rafael, Montes de Oca;18
+-;uruca;18
+-;Aajuela;17
+-;Alajuela, San Carlos, Venecia;17
+-;aserri;17
+-;brunca;17
+-;Concepcion;17
+-;Costa Rica/Alajuela/Palmares;17
+-;Guanacaste / Carrillo;17
+-;liberia;17
+-;Limon Costa Rica;17
+-;Merced;17
+-;POCOCI/LIMON;17
+-;San Antonio;17
+-;san jose Costa Rica, zapote cerrajeria servillaves;17
+-;Tarrazu;17
+-;Vasquez de Coronado;17
+-;Ciudad Quesada;16
+-;El Guarco;16
+-;Esquina suroeste del parque Nicoya-Guanacaste;16
+-;guadalupe;16
+-;Guanacaste.;16
+-;Hatillo;16
+-;Heredia costado este hospital San Vicente de Paul;16
+-;Nicoya;16
+-;Sabanilla;16
+-;san jose Costa Rica;16
+-;san jose province;16
+-;San Rafael de Escazu;16
+-;siquirres limon costa rica;16
+-;Alajuela canton central;15
+-;Barrio San Jose;15
+-;Central Costado de KFC Paseo colon;15
+-;Ciudad Colon;15
+-;ciudad quesada san carlos;15
+-;costa Rica;15
+-;Mercedes Norte;15
+-;Mora;15
+-;san francisco;15
+-;San jose, mata Redonda;15
+-;SAN RAFAEL;15
+-;San Ramon, Alajuela, Costa Rica;15
+-;San Ramon, Alajuela.;15
+-;Santiago puriscal;15
+-;Sarchi Norte;15
+-;Alajuela Costa Rica;14
+-;Alajuela, Neighborhood San Jose, street CarranzaTelf:88310593;14
+-;Florencia;14
+-;Garabito;14
+-;Heredia COSTA RICA;14
+-;Heredia, Belen;14
+-;La Fortuna;14
+-;La Granja, Palmares, Alajuela,Costa Rica;14
+-;Limon, Matina, Bataan;14
+-;los chiles veracruz cano megro;14
+-;parrita;14
+-;San Jose. Calle Alemanes. residencial Vista Alegre;14
+-;san ramon;14
+-;Tierases;14
+-;Uruca;14
+-;Alajuela, San Carlos Ciudad Quesada;13
+-;Alajuela/Atenas/Sabana Larga;13
+-;barrio los angeles;13
+-;Correos de Costa Rica;13
+-;correos de costa rica en santa barbara de heredia;13
+-;Desamparados San Rafael Abajo;13
+-;El Roble Puntarenas;13
+-;Guancaste;13
+-;Limon.;13
+-;Puntraenas;13
+-;Quebradilla;13
+-;San Antonio de Belen;13
+-;san Carlos;13
+-;San Jose / Goicoechea / Guadalupe;13
+-;san juan;13
+-;San juan de Tibas, costado sureste del estadio municipal;13
+-;sardinal;13
+-;Sucursal de Correos en Santa Marta en Montes de Oca;13
+-;turrialba;13
+-;alajuela, san carlos;12
+-;Alajuela/Desamparados /Central;12
+-;Costa Rica, Alajuela;12
+-;Costa Rica, San Carlos, Ciudad Quesada;12
+-;Costarica;12
+-;Daniel Flores;12
+-;goicoechea;12
+-;guanacaste Santa cruz;12
+-;La union;12
+-;Nicoya Guanacaste;12
+-;Occidental;12
+-;orotina;12
+-;Osa;12
+-;Puntarenas, Corredores, La cuesta;12
+-;San Jose, Tibas;12
+-;San Miguel;12
+-;santa ana;12
+-;Santo Domingo, San Miguel;12
+-;Tilaran;12
+-;zona norte la fortuna San Carlos;12
+-;Abangares;11
+-;Alajuela Centro;11
+-;Alajuela San Carlos;11
+-;Alajuela, Palmares;11
+-;BARRIO CORDOBA;11
+-;barva;11
+-;Bataan;11
+-;Cabo Velas, Guanacaste;11
+-;cariari;11
+-;Cartago Costa Rica;11
+-;Cartago, Tres Rios, La union;11
+-;correo Y griega;11
+-;Costa Rica, Cartago, Turrialba;11
+-;Desamparados de Alajuela;11
+-;florida;11
+-;Guanacaste canas;11
+-;Heredia, San Pablo;11
+-;La Uruca;11
+-;Limon, Pococi;11
+-;Puntarenas - Costa Rica;11
+-;puntarenas, buenos aires;11
+-;Puntarenas, Osa;11
+-;San Carlos Alajuela;11
+-;san jose desamparadoa;11
+-;san jose Perez Zeledon;11
+-;San Jose, Costa Rica.;11
+-;San Jose, Paseo Colon;11
+-;San Nicolas;11
+-;SanJose;11
+-;Santa cruz;11
+-;Santa Cruz, Guanacaste;11
+-;Sarchi;11
+-;tejar cartago;11
+-;tilaran;11
+-;, jicaral , puntarenas;10
+-;5;10
+-;Alajula;10
+-;Calle Naranjo de la entrada principal 100mts Norte.;10
+-;cantillo;10
+-;Caribe;10
+-;Cartago Dulce Nombre;10
+-;centro;10
+-;Costa Rica -San Jose - Desamparados;10
+-;Costa Rica/Guanacaste/Canas;10
+-;Desamparados, Calle Fallas;10
+-;Distrito San Juan;10
+-;Dulce Nombre;10
+-;Esparza puntarenas costa rica;10
+-;Espiritu santo;10
+-;grecia;10
+-;Guanacaste, Santa Cruz;10
+-;limon Siquirres Florida;10
+-;Mataredonda;10
+-;Miramar, Puntarenas;10
+-;Moravia/san jose/ san jeronimo;10
+-;Puntarenas/Esparza;10
+-;purral;10
+-;Roble;10
+-;Salitral;10
+-;San Antonio, Belen;10
+-;San Joaquin;10
+-;San jocesito de san rafael;10
+-;san jose Goicoechea calle blancos;10
+-;San Jose, San Francisco;10
+-;San pablo de heredia;10
+-;San Pedro Montes de Oca;10
+-;Santa Barbara de Heredia;10
+-;Santa Lucia;10
+-;Tres Rios;10
+-;Ulloa, Heredia;10
+-;175 metros Este de Coopealianza, oficinas sue_os NICOYANOS.;9
+-;agua caliente;9
+-;Agua Caliente ( San Francisco);9
+-;Alajuela atenas concepsion;9
+-;atenas;9
+-;Barrantes, Flores;9
+-;Barrio corazon de jesus;9
+-;Barrio Valencia;9
+-;Belen de Heredia;9
+-;Buena Vista;9
+-;canas, Guanacaste, Costa Rica;9
+-;canoas;9
+-;Carrillo;9
+-;Cartago,Costa Rica;9
+-;Centro;9
+-;Condominios del Sur 13-B;9
+-;coronado;9
+-;Costa rica heredia san rafael;9
+-;Coto Brus;9
+-;el guarco;9
+-;guapiles;9
+-;Heredia centro sucursal de correos;9
+-;Heredia, Central;9
+-;Jicaral;9
+-;Loyola, Cartago;9
+-;Mata de Platano, San Jose, Costa Rica;9
+-;mata redonda;9
+-;Mercedes Sur;9
+-;Montes de Oro;9
+-;nicoya;9
+-;norte central,Heredia,Costa Rica;9
+-;puntarena;9
+-;puntarenas golfito rio claro;9
+-;Ribera;9
+-;Rio Segundo;9
+-;San Francisco de Dos Rios;9
+-;San francisco de dos rios;9
+-;san isidro;9
+-;San JosÃÂ©;9
+-;San Jose Province - zapote, quesada duran;9
+-;San jose puriscal san antonio;9
+-;San Rafael Oreamuno;9
+-;Santa ana;9
+-;santo domingo;9
+-;siquirres;9
+-;Siquirres, Cairo, Francia;9
+-;upala;9
+-;Upala, Alajuela;9
+-;Aguas Zarcas, San Carlos;8
+-;Alajuela centro;8
+-;Alajuela/Guatuso/llano bonito dos;8
+-;Alejuela;8
+-;Aljuela;8
+-;Barrio el Carmen, Paso Ancho;8
+-;Buenos aires;8
+-;Buenos Aires, Puntarenas;8
+-;Cartaga;8
+-;Cartago Paraiso cachi;8
+-;Cartago, CR;8
+-;Cartago, Paraiso, Paraiso;8
+-;central, distrito san jose;8
+-;Central, Oriental, Cartago;8
+-;Cipreses de Curridabat;8
+-;Cobano;8
+-;Costa Rica, Alajuela, Atenas;8
+-;Costa Rica, Alajuela, Grecia;8
+-;Costa Rica, Alajuela, San Carlos;8
+-;Curridabat, Cipreses;8
+-;damas;8
+-;Desamparados, San Jose;8
+-;DISTRITO El Carnen CANTON Central;8
+-;El Tejar de El Guarco;8
+-;Flores;8
+-;Goicochea;8
+-;Golfito;8
+-;guacima;8
+-;Guadalupe Goicoechea;8
+-;Guanacaste/Santa Cruz;8
+-;guatuso patarra , desamparados;8
+-;HEREDIA BARVA, SAN PABLO BARVA RESIDENCIAL MONTE HIEDRA CASA A19;8
+-;Heredia, San Joaquin de Flores;8
+-;hospital;8
+-;juan de leon;8
+-;la ribera;8
+-;Limon, Siquirres,;8
+-;mayorga;8
+-;Mercedes;8
+-;Miramar;8
+-;Moravia / San Jose / Costa Rica;8
+-;Parrita;8
+-;perez zeledon, las rosas;8
+-;provincia de Alajuela;8
+-;provincia: HEREDIA. canton: SARAPIQUi. distrito: HORQUETAS;8
+-;Puntarenas, Garabito;8
+-;Sabanilla de Montes de oca;8
+-;San Antonio de Desamparados, Desamparados;8
+-;san antonio, el llano de alajuelita;8
+-;San Isidro de El General;8
+-;San Isidro del General;8
+-;San JOSE / vazques de Coronado/patalillo;8
+-;San jose Coronado San Isidro CR;8
+-;San jose san perdro lourdes;8
+-;San Jose, Curridabat;8
+-;San Jose, Escazu, San Rafael;8
+-;San Jose, Montes de Oca, San Pedro;8
+-;San Jose, Moravia, San Vicente;8
+-;San Jose, Puriscal;8
+-;San jose, San Francisco;8
+-;San Jose.;8
+-;San Jose/ Canton Central/ distrito Hospital;8
+-;San Jose/San Sebastian/Paso Ancho;8
+-;san miguel de Desamparados;8
+-;San Rafael, Poas, Alajuela, San Jose, Costa Rica;8
+-;San Ramon, San Ramon, Alajuela;8
+-;Sucursal Hatillo;8
+-;urbanizacion Dulce Nombre de Jesus casa H1;8
+-;0LIMON;7
+-;Alajuela Upala;7
+-;Alajuela, Grecia, Bolivar;7
+-;Alajuela, Orotina;7
+-;Alajuela, Poas;7
+-;Alajuela.;7
+-;batan;7
+-;Canton Alajuelita;7
+-;Cariari;7
+-;Cartago, Turrialba, Jabillos.;7
+-;Cartago.;7
+-;Cartago/Cartago/Dulce Nombre;7
+-;Casado;7
+-;CENTRO COMERCIAL ROHRMOSER #43;7
+-;Cirri telef 8627-9085;7
+-;Corredores;7
+-;Costa Rica, Alajuela, Grecia.;7
+-;Costa Rica, Puntarenas, corredores, laurel, naranjo de laurel;7
+-;Costa Rica, San Jose, Puriscal;7
+-;COSTA RICA. PUNTARENAS. BARRANCA;7
+-;desamparados patarra;7
+-;Esquipulas;7
+-;Florida Tibas, Barrio Virgina;7
+-;golfito;7
+-;Grecia Alajuela Costa Rica;7
+-;Guanacaste, Costa Rica;7
+-;Guanacaste, Nicoya, Nicoya;7
+-;hatillo#4;7
+-;Herdia;7
+-;Heredia, Heredia Costa Rica .;7
+-;holo;7
+-;La Cruz;7
+-;La Granja;7
+-;Limon,;7
+-;Limon, Pococi, Guapiles;7
+-;limon, pococi, Guapiles;7
+-;Limon,matina;7
+-;merced;7
+-;miramar;7
+-;Miramar, Montes de oro , Costa Rica;7
+-;molm;7
+-;Monteverde;7
+-;monteverde;7
+-;MORAVIA;7
+-;Moravia San Vicente;7
+-;Nicoya guanacaste;7
+-;OREAMUNO;7
+-;Pital san carlos;7
+-;preguntar por Margarita Molina;7
+-;province lemon;7
+-;Puntarenas, fray casiano, Chacarita;7
+-;Puntarenas, Garabito, Jaco;7
+-;ROBLE Yireth;7
+-;San Antonio Alajuelita San Jose;7
+-;san Isidro del General;7
+-;San Jose / Goicoechea;7
+-;San jose Alajuelita San Josecito;7
+-;San Jose central;7
+-;san jose centro;7
+-;san Jose costa rica;7
+-;San Jose Costa RicaTel. 506-85346668;7
+-;San Jose, Costa Rica, C.A.;7
+-;San Jose, Goicoechea, Mata de Platano;7
+-;San Jose, San Pedro de Montes de Oca, Vargas Araya;7
+-;San Jose/Goicoechea/Purral;7
+-;San Jose/Limon/siquirres;7
+-;san pablo;7
+-;San Pablo,Heredia;7
+-;San Pedro de Montes de Oca;7
+-;San Pedro de Poas;7
+-;San Rafael/Alajuela/Costa Rica;7
+-;Santo Domingo de El Roble;7
+-;Santo Domingo del Roble de Santa Barbara;7
+-;ssn jose desamparados san Rafael abajo;7
+-;Vazquez de Coronado;7
+-;Vazquez de coronado;7
+-;00LIMON;6
+-;a un costado del autopits uruca;6
+-;Agua Caliente;6
+-;Alajuela turrucares del BN 600 metros sur detrs de agus servis;6
+-;Alajuela, Grecia;6
+-;Alajuela, Rio segundo;6
+-;Alajuela, Upala;6
+-;Alfaro San Ramon;6
+-;Atenas Costa Rica 20501;6
+-;Barrantes;6
+-;Batan;6
+-;Caballo Blanco;6
+-;canas;6
+-;canas guanacaste;6
+-;Cartago canton central;6
+-;Cartago, el guarco;6
+-;Cartago, Taras;6
+-;Centro america;6
+-;Chimirol;6
+-;Ciudad Colon San Jose;6
+-;Colorado de Abangares;6
+-;Concepcion de tres rios;6
+-;Condominio Distrito San Juan casa 14H;6
+-;Costa Rica San Jose San Rafael Abajo de Desamparados;6
+-;Costa Rica, Heredia, Santo Domingo, Santo Tomas;6
+-;Costa Rica, san ramon ,Alajuela ,San ramon,Alajuela;6
+-;Costa Rica. SanJose. Aserri. Vuelta de Jorco;6
+-;Costa Rica/ San Jose/ Puriscal;6
+-;Costa rrica/guanacaste;6
+-;COSTARICA;6
+-;Desamparados, San Jose, Costa Rica;6
+-;Desamparados, San Jose, Torremolinos;6
+-;Dulce Nombre de Jesus;6
+-;esparza;6
+-;Guanacaste - Nicoya;6
+-;Guanacaste Nosara;6
+-;Gunacaste/carrillo;6
+-;Hatillo 4;6
+-;Heredia aurora ulloa;6
+-;heredia ulloa barreal;6
+-;Heredia, Barva;6
+-;HEREDIA, COSTA RICA, CENTROAMERICA;6
+-;Heredia, province;6
+-;Heredia, Santa Rosa de Santo Domingo Heredia;6
+-;heredia,barva, santa lucia;6
+-;hetedia;6
+-;Jimenez, Juan Vinas;6
+-;La Angelina;6
+-;la union;6
+-;Leon Cortes;6
+-;Limon Limon;6
+-;Limon, Limon, Limon;6
+-;los chiles;6
+-;Montes de Oca, Sabanilla;6
+-;naranjo;6
+-;oreamuno;6
+-;Oriental.;6
+-;orosi;6
+-;PARAISO;6
+-;Paraiso de Cartago;6
+-;Parrita,Puntarenas;6
+-;patarra Desamparados San jose;6
+-;Penas blancas de Cachi;6
+-;Pococi Limon;6
+-;Pococi, Limon;6
+-;portegolpe;6
+-;Puntarenas Costa Rica;6
+-;puntarenas,golfito,puerto jimenez;6
+-;puntarrnas;6
+-;puntatenas;6
+-;Rio segundo, Alajuela;6
+-;sabana;6
+-;san Antonio de desamparados;6
+-;San Carlos,Alajuela;6
+-;San Carlos/Alajuela;6
+-;San Isidro del General, Perez Zeledon;6
+-;San Jose / San Jose;6
+-;San jose Alajuelita san Jose;6
+-;San Jose Perez zeledon;6
+-;San Jose, Catedral, Barrio Gonzalez Lahmahn;6
+-;San Jose, Costa rica;6
+-;San Jose, Montes de Oca;6
+-;San Jose,la uruca , la uruca;6
+-;San Jose/Tibas/Colima;6
+-;san Miguel;6
+-;San Miguel, Santo Domingo;6
+-;san rafael;6
+-;San ramon;6
+-;San Vicente;6
+-;san Vito coto brus;6
+-;sarchi;6
+-;Sarchi Sur;6
+-;tacares;6
+-;tempate santa cruz guanacaste enviar a correo villa real;6
+-;Tobosi;6
+-;Tres Rios / La Union / Cartago;6
+-;Tres Rios, La Union;6
+-;Turrialba,coordenadas ,9.911639,-83.664685;6
+-;vazquez de Coronado;6
+-;Via 310 Avenida 23B (Calle las Palmas).;6
+-;Villas de Ayarco;6
+-;Y Griega Limon Siquirres;6
+-;Zaragoza;6
+-;-;5
+-;100 metros sur del Rancho Ceci en Laguna , Zarcero ,;5
+-;100metros Norte de la casa cural..santa cruz centro Guanacaste;5
+-;303LIMON;5
+-;4237LIMON;5
+-;8290LIMON;5
+-;aguas zarcas;5
+-;Alaguela;5
+-;Alajuela , San Carlos Florencia;5
+-;alajuela alajuela san rafael;5
+-;Alajuela Atenas;5
+-;Alajuela Provincia;5
+-;Alajuela, Calle Loria;5
+-;Alajuela, San Carlos, Pital;5
+-;alajuela. san carlos;5
+-;Alajuela/Alajuela/Alajuela;5
+-;Alajuelita / San Jose / Alajuelita;5
+-;Alajuelita, san Felipe, la Aurora, urb. Garabito;5
+-;Barrio Dent;5
+-;Calle Loria;5
+-;Canas Guanacaste;5
+-;Canton central Sabana Sur Calle Morenos;5
+-;carrillo;5
+-;Carrilos Bajo;5
+-;Cartago , la Union;5
+-;Cartago, Turrialba;5
+-;Cartago, Turrialba, Turrialba;5
+-;Cartago/Cartago;5
+-;cartgago;5
+-;casa 2 plantas blanca;5
+-;Cedral, Quesada, Alajuela;5
+-;ceiva;5
+-;Center/ Cathedral;5
+-;CENTRAL;5
+-;Chacarita;5
+-;Ciudad Cortes;5
+-;Condominio Campo Real (Concasa) MOOVIN delivery entregas;5
+-;Corralillo;5
+-;Costa Rica Cartago;5
+-;Costa Rica Guanacaste;5
+-;costa rica ojo de agua pacuare del bar chaca 250 oeste pulperia;5
+-;Costa Rica San Jose Aserri;5
+-;costa rica san jose moravia san vicente;5
+-;costa rica, Alajuela, san Carlos;5
+-;Costa Rica, Puntarenas;5
+-;Costa Rica, Puntarenas_Osa_Palmar Sur;5
+-;Costa Rica, San Jose, Desamparados;5
+-;COSTA RICA.;5
+-;Costa Rica. Alajuela, San Carlos, Pital;5
+-;Costa Rica/ Cartago / Paraiso;5
+-;Costa Rica/Alajuela/Costa Rica;5
+-;costa Rica/alajuela/san carlos;5
+-;Costa Rica/San jose/Desamparados;5
+-;costarica;5
+-;costarica.limon.guacimo;5
+-;coto brus;5
+-;Desamparados centro;5
+-;Distrito;5
+-;Dulce nombre;5
+-;El Carmen;5
+-;El Coyol;5
+-;El Guarco, Cartago, Costa Rica;5
+-;El Roble, Puntarenas, Costa Rica;5
+-;Fatima;5
+-;Fray Casiano;5
+-;Goicoechea, en ipis;5
+-;Goicoechea, Guadalupe;5
+-;Grecia centro, Alajuela, Costa Rica;5
+-;Grecia, Alajuela, Costa Rica;5
+-;Guacima;5
+-;Guanacaste Costa Rica;5
+-;Guanacaste Tilaran;5
+-;Guanacaste-Hojancha;5
+-;Guapiles pococi, san martin de Jimenez;5
+-;Herecia, Central, Ulloa;5
+-;Heredia , Ulloa , barreal , la carpintera.;5
+-;Heredia santa barbara san juan;5
+-;Heredia Santo Domingo;5
+-;Heredia, Heredia Mercedes Norte;5
+-;Heredia/Heredia/San Pablo;5
+-;Hojancha Guanacaste Costa Rica;5
+-;Invu las canas #3;5
+-;Jimenez,suerre;5
+-;La Union, San Rafael;5
+-;La uruca;5
+-;Lagos del Coyol;5
+-;Lagunilla;5
+-;LaUnion/Cartago/Costa Rica;5
+-;lemon;5
+-;Lepanto;5
+-;Liberia Guanacaste;5
+-;Liberia, Guanacaste;5
+-;Limon /Siquirres/Siquirres;5
+-;Limon Centro;5
+-;Limon Pococi;5
+-;los angeles palmira;5
+-;Miramar de Montes de Oro, Puntarenas;5
+-;Monte verde;5
+-;montes de oca;5
+-;montes de oro puntarenas;5
+-;moravia;5
+-;Naranjo,Pilas del Rosario.;5
+-;occidental;5
+-;Oficina Correos de Costa Rica Santa Barbara de Heredia;5
+-;oriental cartago;5
+-;osa puntarenas;5
+-;Osa, Puntarenas;5
+-;Palmar norte, Puntarenas;5
+-;Palmares, Alajuela, Costa Rica;5
+-;Paso Ancho;5
+-;paso canoas;5
+-;penultima casa a m.i., tapia verde porton cafe, fte parquecito;5
+-;PEREZ ZELEDON;5
+-;Pital;5
+-;pital;5
+-;Poas Alajuela costa rica;5
+-;poas de alajuela;5
+-;Puerto Limon;5
+-;PUNTARENAS / MONTES DE ORO;5
+-;Puntreanas;5
+-;Quepos, Puntarenas, Costa Rica;5
+-;Quesada San Carlos Alajuela;5
+-;san antonio;5
+-;San Antonio Coronado;5
+-;San Calos;5
+-;San Diego, La Union;5
+-;San Francisco de Dos Rios de la iglesia catolica 200 este y 75 n;5
+-;san joaquin de flores;5
+-;SAn JOse;5
+-;San Jose , zapote;5
+-;San Jose ,desamparados;5
+-;San jose ,Desamparados;5
+-;San Jose Desamparados San Rafael Arriba;5
+-;san Jose Escazu;5
+-;San Jose Provincia;5
+-;san jose sabanilla;5
+-;San JosE Tibas;5
+-;san jose tibas;5
+-;San Jose, Alajuelita;5
+-;SAN JOSE, COSTA RICA;5
+-;San jose, Costa Rica;5
+-;san jose, goicoechea, calle blancos;5
+-;San Jose, Mata redonda, calle 60;5
+-;San Jose, Perez Zeledon, San Isidro;5
+-;San Jose, Perez Zeledon, San Isidro del general;5
+-;San Jose, Province of Costa Rica;5
+-;San Jose, San Isidro del General, Perez Zeledon;5
+-;San Jose, San Jose;5
+-;San Jose, San Jose, San Pedro;5
+-;San Jose, San Sebastian;5
+-;san jose. coronado;5
+-;San Jose/ Desamparados / Gravilias;5
+-;San Jose/ Montes de Oca/ Sabanilla;5
+-;San Jose/ Mora/Ciudad Colon;5
+-;San Jose/San Jose/Central Carmen;5
+-;San jose/Vasquez de Coronad/Dulce Nombre;5
+-;San Pedro de Barva;5
+-;San rafael;5
+-;San Ramon, Alajuela;5
+-;san vito;5
+-;sanjose pavas lomas;5
+-;sanrafael;5
+-;santa Ana;5
+-;Santa Ana, Piedades;5
+-;Santa barbara de heredia;5
+-;santa cruz;5
+-;Santa cruz guanacaste;5
+-;Santa Elena de Flores;5
+-;Santiago , Puriscal;5
+-;Sarchi de Alajuela;5
+-;Sn Jose;5
+-;Tamarindo, Santa Cruz, Guanacaste;5
+-;Tibas, Leon Xlll;5
+-;Tierra Blanca;5
+-;TRES RIOS;5
+-;Tres Rios, Cartago, Costa Rica, CR;5
+-;Urbanizacion Bosques de Santa Ana;5
+-;Zapote, San Jose;5
+-;.;4
+-;2-ALAJUELA;4
+-;400 mts oeste y 150 sur de la Guarderia Cerro Mocho;4
+-;506 Costa Rica;4
+-;Achiote;4
+-;acosta;4
+-;Aguirre;4
+-;aguirre;4
+-;Ala;4
+-;Alajuel;4
+-;Alajuela 21201;4
+-;Alajuela grecia Costa rica;4
+-;Alajuela Grecia Tacares;4
+-;Alajuela naranjo Naranjo;4
+-;Alajuela Province, correos de Costa Rica;4
+-;Alajuela Sancarlos La fotuna;4
+-;alajuela-;4
+-;ALAJUELA-ALFARO RUIZ-BRISAS;4
+-;Alajuela, la Garita, Coyol;4
+-;Alajuela, Orotina, Centro.;4
+-;Alajuela, San Carlos, Santa Rosa de pocosol;4
+-;Alajuela, San Ramon, San Rafael;4
+-;Alajuela,Palmares;4
+-;Alajuela/Alajuela/Desamparados;4
+-;ALL;4
+-;Alvarado;4
+-;America Central, Costa Rica;4
+-;Area Metropolitana;4
+-;Aurora;4
+-;barranca puntarenas;4
+-;Barrio Escalante;4
+-;Barrio Fatima;4
+-;Barrio San Jose de Alajuela;4
+-;Bello Horizonte;4
+-;bijagua de upala;4
+-;boko;4
+-;buenos aires;4
+-;Caballo Blanco, Dulce Nombre;4
+-;Calle La Rinconada;4
+-;Calle lomas;4
+-;Canton Central;4
+-;Carmen;4
+-;carmona nandayure .;4
+-;Carrillo, Guanacaste;4
+-;Carrizal;4
+-;Cartagena de santa cruz;4
+-;cartagi;4
+-;Cartago / Paraiso / Orosi;4
+-;Cartago Cartago El Carmen;4
+-;Cartago tejar del guarco;4
+-;Cartago/Cartago/Occidental;4
+-;casa color ladrillo con verjas negras a mano derecha.;4
+-;Central American;4
+-;Centro Equilibra;4
+-;centroamerica;4
+-;Chorotega;4
+-;cipreses de oreamuno;4
+-;cobano;4
+-;Cobano Puntarenas;4
+-;Conception., Three Rivers. The Union. Costa Rica;4
+-;corredores;4
+-;Corredores Puntarenas;4
+-;Correos de Costa Rica, Sucursal Buenos Aires;4
+-;Costa Rica /Limon/central;4
+-;costa rica limon guapiles;4
+-;Costa Rica Limon Matina Carrandi;4
+-;Costa Rica, Alajuela, Coyol;4
+-;Costa Rica, Alajuela, Sarchi, Sarchi sur;4
+-;Costa Rica, Limon, Guacimo;4
+-;Costa rica, San Jose, Desamparados;4
+-;Costa Rica, San Jose, Perez Zeledon, General Viejo;4
+-;costa rica,ciudad quesada;4
+-;Costa Rica/ limon /guapiles;4
+-;Costa Rica/Alajuela/Sarchi Sur, Valverde Vega;4
+-;cot;4
+-;Coto brus;4
+-;Coto brus , san vito;4
+-;coyol alajuela;4
+-;Damas;4
+-;desamparados porvenir;4
+-;Desamparados, San Jose, costa rica;4
+-;Distrito Central;4
+-;Distrito San Antonio, Alajuela.;4
+-;Dota Copey;4
+-;El Cocal, Puntarenas.;4
+-;el roble(Puntarenas);4
+-;ESCAZU;4
+-;Escazu San Rafael;4
+-;esterillos centro;4
+-;garabiti;4
+-;Grecia / Alajuela / Costa Rica;4
+-;Grecia /Alajuela;4
+-;Grecia centro;4
+-;Guacimo,Limon;4
+-;Guanacaste Carrillo;4
+-;Guanacaste las juntas de Abangares;4
+-;Guanacaste, Liberia;4
+-;Guanacaste, santa cruz;4
+-;guanacaste....nicoya;4
+-;Guanascaste;4
+-;Guanaste;4
+-;Hatillo 1;4
+-;Heredia / Heredia /San Francisco;4
+-;Heredia Centro;4
+-;Heredia fatima;4
+-;Heredia San Rafael Santiago;4
+-;Heredia Santa Barbara;4
+-;Heredia santa barbara;4
+-;Heredia, Belen, La Asuncion;4
+-;Heredia, Mercedes Norte;4
+-;heredia, santo domingo, san miguel.;4
+-;heredia/santo domingo /tures/los angeles;4
+-;Herredia;4
+-;Hojancha Guanacaste;4
+-;Hrredia, Barva, San Roque;4
+-;huetar Caribe;4
+-;Jimenez;4
+-;La Alegria;4
+-;la fortuna san Carlos alajuela;4
+-;La Puebla/San Pablo/Heredia;4
+-;la Union;4
+-;LA URUCA;4
+-;Laura Vargas Soto;4
+-;Lemon;4
+-;lepanto;4
+-;Limon, Costa Rica;4
+-;Limon, puerto viejo talamanca.;4
+-;limon/pococi/Guapiles;4
+-;Los Chiles;4
+-;Manuel Antonio;4
+-;Manuel Antonio, Quepos, Puntarenas;4
+-;Miami;4
+-;Montecillos, Alajuela;4
+-;Mora, Colon;4
+-;MORAVIA LOS SITIOS;4
+-;Moravia, San Jeronimo;4
+-;Nandayure;4
+-;naranjo contiguo a bomberos de costa rica;4
+-;Naranjo, Alajuela;4
+-;Nicoya, Guanacaste;4
+-;nkohil;4
+-;Oreamuno/Cartago/San Rafael;4
+-;osa;4
+-;paraiso de cartago;4
+-;Parrita, Puntarenas;4
+-;Patarra;4
+-;pavas san jose,;4
+-;Perez Zeledon, San Jose;4
+-;Pozos;4
+-;Provincia Cartago;4
+-;Provincia Guanacaste. Canton Carrillo. Distrito Sardinal;4
+-;Pu tarenad;4
+-;puntarenaa;4
+-;Puntarenas garabito;4
+-;Puntarenas province;4
+-;puntarenas puntarenas;4
+-;Puntarenas, Aguirre, Quepos;4
+-;Puntarenas, Barranca, Juanito Mora septima entrada casa 579;4
+-;Puntarenas, Buenos Aires;4
+-;Puntarenas.;4
+-;Puntarrnas;4
+-;Punterenas;4
+-;Quesada;4
+-;Region;4
+-;roble puntarenas;4
+-;Sabana Norte;4
+-;Salitral de Santa Ana;4
+-;San Carlos ,Alajuela, Costa Rica;4
+-;san Carlos Ciudad Quesada;4
+-;San carlos, alajuela,;4
+-;San Diego;4
+-;San Ignacio;4
+-;San Jeronimo;4
+-;san jose desamparados;4
+-;San jose Desamparados patarra;4
+-;San Jose Desamparados San Rafael Abajo;4
+-;San Jose Moravia San Vicente;4
+-;san jose pavas sabana oeste;4
+-;San Jose Province moravia;4
+-;San Jose San Jose;4
+-;SAN JOSE- DESAMPARADOS - DAMAS;4
+-;San Jose, Costa Rica, Central America;4
+-;San Jose, Desamparados;4
+-;san jose, desamparados, san miguel, el llano;4
+-;San Jose, Goicoechea, Guadalupe;4
+-;San Jose, Hatillo;4
+-;San Jose, Hospital, Central;4
+-;San Jose, Mora,ciudad colon;4
+-;San Jose, Moravia;4
+-;san jose, san jose, barrio mexico;4
+-;San Jose, Tibas, Anselmo Llorente;4
+-;San Jose. Santa Ana. Pozos;4
+-;San Jose/Tarrazu/San Marcos;4
+-;San Josecito, Alajuelita.;4
+-;SAN JUAN;4
+-;San Juan de Dios, Desamparados;4
+-;San Juan Sur;4
+-;San Miguel Santo Domingo;4
+-;San pablo sucursal de correos los santos;4
+-;San Pablo, Barva, Heredia, CR;4
+-;san pedro;4
+-;san pedro / montes de oca;4
+-;San Pedro de Barba, Heredia;4
+-;san pedro/san jose/lourdes;4
+-;San rafael de Alajuela;4
+-;San Rafael de Oreamuno, 300 metros sur del super el churuco;4
+-;San Rafael, Escazu;4
+-;San Ramon Centro;4
+-;san sebastian;4
+-;San Vito;4
+-;Sanchez, San Jose;4
+-;SANJOSE;4
+-;Santa Cruz Guanacaste;4
+-;Santo Domingo, Heredia;4
+-;Siquirres Limon;4
+-;siquirres limon;4
+-;soltero;4
+-;Suite 110;4
+-;Tibas, San Jose;4
+-;Valverde Vega;4
+-;Vasquez de coronado;4
+-;Venecia;4
+-;Villa Bonita;4
+-;Zapote Casa Presidencial;4
+-;- desamparados;3
+-;/;3
+-;25 mts oeste de la escuela angusto colombari;3
+-;75 al norte de la muebleria san blas casa veranera roja;3
+-;150 sur de la musmani en santa lucia de heredia;3
+-;600 m al sur de la municipalidad Liberia;3
+-;625 mts Oeste de la Junta de Proteccion Social;3
+-;20104;3
+-;alajuela carrizal;3
+-;Alajuela Centro (correos de Costa Rica Alajuela);3
+-;Alajuela Centro, Costa Rica;3
+-;Alajuela province;3
+-;alajuela province;3
+-;Alajuela provincia;3
+-;alajuela san carlos;3
+-;alajuela san ramon centro;3
+-;Alajuela SanCarlos Quesada;3
+-;Alajuela, Alajuela, Alajuela;3
+-;Alajuela, alajuela, sabanilla;3
+-;Alajuela, Atenas, Santa Eulalia;3
+-;Alajuela, Canton Central;3
+-;Alajuela, Central, Desamparados;3
+-;Alajuela, Los Chiles;3
+-;Alajuela, San Carlos, Aguas Zarcas;3
+-;Alajuela, San Carlos, Cutris, Boca de Arenal;3
+-;Alajuela, san Mateo, San Mateo;3
+-;Alajuela, San Ramon.;3
+-;Alajuela, Sarchi norte.;3
+-;Alajuela/ Palmares/ Candelaria;3
+-;Alajuela/Grecia;3
+-;Alajula Grecia;3
+-;aserri san jose costa Rica;3
+-;Atenas, Alajuela, Costa rica;3
+-;B. Union, Canas, GuanacateGuanacaste;3
+-;Barreal;3
+-;barrio bolivar;3
+-;barrio el carmen de abrojo;3
+-;Barrio jesus/atenas /alajuela;3
+-;Barrio Los Reyes, Daniel Flores;3
+-;Barrio mexico;3
+-;belen la ribera;3
+-;Bolivar;3
+-;Broockyln;3
+-;C;3
+-;Caballo blanco Dulce Nombre;3
+-;Cacao;3
+-;Cahuita;3
+-;cahuita;3
+-;Canas;3
+-;canton central;3
+-;Canton Santa Barbara;3
+-;cariari pococi;3
+-;Carrizal de Alajuela;3
+-;Cartago (Turrialba) Jimenez, Tucurrique.;3
+-;Cartago Occidental;3
+-;Cartago Oriental;3
+-;Cartago paraiso orosi;3
+-;Cartago San Nicolas;3
+-;cartago turrialba central;3
+-;Cartago, Cartago, Quebradilla;3
+-;Cartago, Jimenez, Juan vinas;3
+-;Cartago, Los Angeles;3
+-;Cartago, Paraiso, Orosi;3
+-;Cartago/ La Union;3
+-;Cartago/Central/San Francisco;3
+-;Cartago/SanJose/Costa Rica;3
+-;Carthage;3
+-;Central, Cartago, Turrialba.;3
+-;Centroamerica;3
+-;Ciudad Quesada, San Carlos, Alajuela;3
+-;CORONADO;3
+-;correos de Costa Rica Vasquez Coronado;3
+-;Costa Rica - San Jose;3
+-;COSTA RICA ,ALAJUELA;3
+-;Costa Rica Alajuela San Ramon;3
+-;Costa Rica America Central;3
+-;Costa rica Cartago;3
+-;costa Rica limon guapiles Cariari;3
+-;Costa Rica provincia de Heredia distrito Ulloa;3
+-;Costa Rica Puntarenas Barranca;3
+-;Costa Rica San Jose;3
+-;costa rica sanjose Curridabat;3
+-;costa rica, alajuela, palmares;3
+-;Costa Rica, Alajuela, San carlos;3
+-;Costa Rica, Alajuela,Upala;3
+-;Costa Rica, Guanacaste, Nandayure;3
+-;Costa Rica, Guanacaste, Samara;3
+-;Costa Rica, Puntarenas, Golfito;3
+-;Costa Rica, San Jose;3
+-;Costa Rica, San Jose, Curridabat;3
+-;Costa Rica, San Jose, Desamparados Centro;3
+-;Costa Rica, San Jose, Hatillo 3;3
+-;Costa Rica, San Jose, Perez Zeledon;3
+-;Costa Rica, San Jose.;3
+-;Costa Rica,Cartago,La Union;3
+-;Costa Rica,Guanacaste,Bagaces;3
+-;Costa Rica,San Jose;3
+-;Costa Rica/alajuela/alajuela;3
+-;Costa rica/Cartago/Turrialba/Tres equis;3
+-;Costa Rica/Heredia/San Jose de San Isidro;3
+-;costarrica;3
+-;coto Brus;3
+-;Coto Brus de Puntarenas, Costa Rica;3
+-;COYOL;3
+-;csrtago;3
+-;Curridabad;3
+-;Curridabat, San Jose;3
+-;Curridabat/Curridabat/San Jose;3
+-;de la escuela san Rafael 150 mts norte;3
+-;Del Bar la Ceiba 200mts norte;3
+-;Del salon comunal Paris, 25 metros oeste;3
+-;Desamparados Sannjose;3
+-;Desamparados, Gravilias;3
+-;Desamparados, San jose, Costa Rica;3
+-;Distrito Oriental;3
+-;dulce nombre tres rios;3
+-;E-mail vcalvoc@hotmail.com;3
+-;El Coyol, Alajuela, Alajuela;3
+-;El roble;3
+-;El Tejar, El Guarco;3
+-;escazu;3
+-;Escazu San Antonio;3
+-;Esparza Puntarenas;3
+-;Esparza Puntarenas costa rica;3
+-;Esparza,Puntarenas, espiritusanto;3
+-;esparzol;3
+-;fraycasiano;3
+-;Goicoechea, Ipis;3
+-;Goicoechea, San Jose, La Robert;3
+-;Golfito Puntarenas;3
+-;Golfito, Puntarenas;3
+-;Gran Area Metropolitana;3
+-;Grecia,alajuela;3
+-;Grecia/Alajuela;3
+-;Grecia/alajuela/tacares;3
+-;guachipelin;3
+-;Guacima Alajuela;3
+-;Guadalupe, Purral;3
+-;Guanacaste liberia;3
+-;Guanacaste province;3
+-;Guanacaste Santa Cruz tempate (playa potrero);3
+-;guanacaste tilaran;3
+-;Guanacaste, Liberia.;3
+-;Guanacaste, Tilaran, Santa Rosa;3
+-;guanacaste,santa cruz, villa real.;3
+-;Guanacaste/Liberia;3
+-;Guanacaste/Santa Cruz/Tempate;3
+-;guanascate liberia barrio san roque;3
+-;guancaste;3
+-;Guapiles, Pococi, Limon;3
+-;Guatuso;3
+-;Hatillo, San Jose. Costa Rica;3
+-;Heredia , Sarapiqui , horquetas;3
+-;Heredia / Central / Central;3
+-;Heredia, Heredia;3
+-;Heredia, San Antonio de belen;3
+-;Heredia, san francisco;3
+-;Heredia, San Rafael;3
+-;Heredia, San Rafael, Santiago;3
+-;Heredia, Santo Domingo, San Vicente;3
+-;Heredia, Ulloa;3
+-;Heredia/Santo Domingo/Santa rosa;3
+-;Invu km3;3
+-;Ipis, Guadalupe;3
+-;jesus;3
+-;jimenez;3
+-;la Asuncion;3
+-;la capri;3
+-;La Cruz, Guanacaste, Costa Rica;3
+-;La florida de Tibas;3
+-;la fortuna sancarlos;3
+-;la lindora monteverde;3
+-;La trinidad de Moravia;3
+-;Las Flores, Barrantes;3
+-;Laurel;3
+-;Liberia, guanacaste, costarica;3
+-;limom;3
+-;Limon ,Guacimo;3
+-;Limon centro;3
+-;limon centro;3
+-;Limon pococi;3
+-;Limon, Guacimo, Guacimo;3
+-;Limon, Guacimo, Las Mercedes;3
+-;Limon, Limon, Limon.;3
+-;Limon, matina, batan;3
+-;limon, pococi, guapiles.;3
+-;Limon,Siquirres;3
+-;llano bonito de naranjo;3
+-;Lopez Mateos;3
+-;Los Guidos, desamparados;3
+-;Los Sitios;3
+-;marco arguedas;3
+-;Mercedes norte;3
+-;Miramar, Montes de Oro, Puntarenas;3
+-;monte de oro Miramar;3
+-;mora colon;3
+-;norte;3
+-;Norte del Banco Nacional Concepcion Cartago 30305;3
+-;norte, frente a plaza casa cafe con rosado mano derecha;3
+-;Nosara;3
+-;occidente;3
+-;oriental;3
+-;Orotina, Alajuela;3
+-;Pacifico Central;3
+-;Palmar Norte;3
+-;Paraiso de Cartago Costa Rica;3
+-;Paraiso, Cartago, Costa Rica;3
+-;paso hondo;3
+-;Pavas, Pavas, San Jose;3
+-;perlita;3
+-;Piedras Blancas;3
+-;Plaza Nueva;3
+-;poas, alajuela, costa rica;3
+-;Pococi, limon,san Jose;3
+-;Pocora;3
+-;Pocosol;3
+-;Pozos, Santa Ana;3
+-;Provincia;3
+-;provincia de Puntarenas;3
+-;Provincia de san jose;3
+-;Provincia Heredia Canton Santo Domingo Distrito Santo Domingo;3
+-;provincia la giralda;3
+-;Provincia San Jose;3
+-;provincia san jose;3
+-;Puente Piedra;3
+-;puerta del sol;3
+-;Puntarenad;3
+-;PUNTARENAS , CORREDORES;3
+-;Puntarenas , monteverde;3
+-;puntarenas .monte verde;3
+-;Puntarenas / Costa Rica;3
+-;Puntarenas barranca juanito mora;3
+-;Puntarenas Corredores;3
+-;puntarenas garabiito;3
+-;puntarenas Jicaral;3
+-;puntarenas montes de oro;3
+-;Puntarenas, Corredores;3
+-;Puntarenas, Coto Brus, Sabalito;3
+-;Puntarenas, Golfito;3
+-;Puntarenas, Quepos, Quepos;3
+-;Puntarenas,Quepos;3
+-;Puntarenes;3
+-;Puntatenas;3
+-;Putarenas;3
+-;QUESADA DURAN;3
+-;Region Central;3
+-;Rincon de Sabanilla San Pablo;3
+-;Rio segundo-hotel casa antigua 100 N, 25 oeste.;3
+-;roble;3
+-;Sabana;3
+-;sabanilla;3
+-;Sabanilla, Montes de Oca;3
+-;samara;3
+-;San antonio;3
+-;San Antonio Belen;3
+-;San Carlos, Ciudad Quesada, Alajuela;3
+-;San Gabriel Calle Blancos;3
+-;SAN ISIDRO;3
+-;san Isidro del el general;3
+-;San Jose - Escazu;3
+-;san jose , alajuelita;3
+-;San jose ,tibas;3
+-;San Jose . Costa Rica.;3
+-;San Jose / Curridabat / Granadilla;3
+-;San Jose / Desamparados;3
+-;San Jose / Moravia / San Vicente;3
+-;San Jose Coronado San Isidro;3
+-;san jose Costa Rica la Uruca;3
+-;San Jose Distrito Hospita;3
+-;San Jose Goicoechea Ipis;3
+-;San Jose Montes de oca Sabanilla;3
+-;San Jose Puriscal;3
+-;San Jose Santa Ana lindora;3
+-;San jose tibas leon Xlll alameda 10 casa 472;3
+-;san jose, Alajuelita;3
+-;San Jose, Aserri, Salitrillos.;3
+-;San Jose, Catedral, Barrio San Cayetano;3
+-;san Jose, Costa Rica;3
+-;san jose, costa rica;3
+-;San Jose, Costa Rica, San Francisco de Dos Rios;3
+-;San Jose, desamparados;3
+-;San jose, Goicoechea, Calle blancos;3
+-;San Jose, Goicoechea.;3
+-;San Jose, Mata Redonda;3
+-;san jose, puriscal;3
+-;San Jose, San Jose, Catedral;3
+-;San Jose, San Jose, El Carmen;3
+-;San Jose, San Jose, Zapote;3
+-;San Jose, San Jose,Costa Rica;3
+-;San Jose, San Pedro, Montes de Oca;3
+-;San jose, San sebastian;3
+-;San Jose, Vasquez de Coronado, San Isidro;3
+-;SAN JOSE, ZAPOTE, COSTA RICA TELEFONO 8339 0777;3
+-;San Jose/Puriscal /Mercedes Sur;3
+-;san jose/puriscal/santiago;3
+-;san jose/zapote;3
+-;San joseph;3
+-;San joses;3
+-;San juan;3
+-;San Juan de santa Barbara .;3
+-;San Juan de Tibas, San Jose, Costa Rica;3
+-;San Juan, La Union;3
+-;San Marcos;3
+-;San Marcos de Tarrazu;3
+-;San Mateo;3
+-;San Miguel Desamparados San Jose;3
+-;San Nicolas, Loyola;3
+-;San Pablo Leon Cortez;3
+-;san pedro de poas;3
+-;San Pedro, Montes de Oca;3
+-;San Pedro, San Jose;3
+-;San Rafael de La Colonia, Pococi;3
+-;San Rafael de Oreamuno;3
+-;San Rafael Escazu;3
+-;San Rafael/ Heredia;3
+-;San Rafael/Heredia;3
+-;San Ramon alajuela;3
+-;san ramon Alajuela;3
+-;San Ramon Angeles;3
+-;San Ramon de Alajuela;3
+-;san ramon de alajuela;3
+-;San Roque;3
+-;San Sebastian, Colonia Keneddy norte;3
+-;San Sebastian.;3
+-;San Vicente, Moravia , San Jose;3
+-;San Vicente, San Jose;3
+-;San. Carlos;3
+-;SanJose/Coronado;3
+-;Sann Jose;3
+-;santa barbara de heredia;3
+-;Santa cruz Guanacaste;3
+-;Santa Rosa;3
+-;Santa Rosa, Alajuela, Pocosol;3
+-;Santa Teresita de Aserri;3
+-;santana;3
+-;Santiago Palmares Alajuela 100 metros norte del super rapido;3
+-;Santiago,Puriscal;3
+-;Santo domingo;3
+-;santo domingo de Heredia, avenida 5 calle 4;3
+-;Santo Domingo de Heredia.;3
+-;Santo tomas;3
+-;Sarapiqui, Horquetas.;3
+-;sardinal/carrillo/Guanacaste;3
+-;Siquirres Cota Rica;3
+-;Sna Jose;3
+-;SOLTERO (A);3
+-;sucursal de correos de Costa Rica Alajuela centro;3
+-;talamanca;3
+-;TALAMANCA limon;3
+-;tambor;3
+-;tejar;3
+-;Tilaran, Guanacaste;3
+-;Ulloa de Heredia;3
+-;upala upala San Luis;3
+-;Urbanisacion Cocori;3
+-;URUCA;3
+-;vasquez de coronado;3
+-;villa nueva ,perez zeledon ,;3
+-;Zapote/San Jose;3
+-;zona norte;3
+Costa Rica;Alajuela;2
+-;00000;2
+-;000POCOCI LIMON;2
+-;00POCOCI LIMON;2
+-;001LIMON;2
+-;02;2
+-;02/ALAJUELA;2
+-;003POCOCI LIMON;2
+-;03POCOCI LIMON;2
+-;3x;2
+-;0010LIMON;2
+-;50LIMON;2
+-;88LIMON;2
+-;200m este del ebais del rosario;2
+-;741LIMON;2
+-;819LIMON;2
+-;859LIMON;2
+-;973LIMON;2
+-;A 100 metros de la plasa de deportes de playa negra;2
+-;abangares;2
+-;Agua Caliente San Francisco;2
+-;Agua Zarcas;2
+-;ajdvsjbw;2
+-;AL;2
+-;Alajela Centro;2
+-;Alajuela , San Carlos, Ciudad Quesada;2
+-;Alajuela ,Grecia , santa Gertrudis Norte;2
+-;Alajuela central;2
+-;Alajuela Naranjo Palmitos Concepcion;2
+-;Alajuela Palmares;2
+-;Alajuela Palmares Centro;2
+-;Alajuela san Carlos;2
+-;Alajuela san jose;2
+-;alajuela san rafael;2
+-;Alajuela, Atenas centro;2
+-;Alajuela, Atenas, Barrio los Angeles;2
+-;Alajuela, costa rica;2
+-;Alajuela, Grecia, Cataluna;2
+-;alajuela, grecia, centro;2
+-;Alajuela, naranjo, San Jeronimo;2
+-;alajuela, valverde vega sarchi;2
+-;Alajuela,Grecia,Tacares;2
+-;Alajuela,San Carlos;2
+-;Alajuela.canoas contigo a restaurante Dragon Dorado;2
+-;Alajuela/Alajuela/tambor;2
+-;Alajuela/Atenas;2
+-;Alajuela/Atenas/Jesus;2
+-;Alajuela/Barrio San Jose;2
+-;Alajuela/San Carlos/Ciudad Quesada;2
+-;Alajuela/San Ramon/ San Rafael;2
+-;Alajuelita, San Felipe;2
+-;aljuela;2
+-;Aljuela, San Carlos;2
+-;altocastro;2
+-;Apartado Postal 2181-1000;2
+-;Aserri Centro;2
+-;Atlantica;2
+-;bahia ballena de osa;2
+-;Barbacoas;2
+-;Barranca/ Puntarenas/ Costa Rica;2
+-;barranca/Puntarenas/Costa Rica;2
+-;barrio el progreso casa # A7 barranca puntarenas;2
+-;Barrio la Granja;2
+-;Barrio Mexico;2
+-;Barrio san cayetano;2
+-;Bataan, Matina;2
+-;Bataan,matina,Limon;2
+-;belen;2
+-;belen heredia;2
+-;Belen, San Antonio;2
+-;Bernardo Benavides;2
+-;Brasil de mora;2
+-;bribri;2
+-;Brunca;2
+-;Buenos Aires Puntarenas;2
+-;Buenos Aires Zona Sur;2
+-;cajon;2
+-;calle blancos;2
+-;calle el llano, el rosario rosario de naranjo;2
+-;canas Guanacaste;2
+-;Canas Guanacaste Costa Rica;2
+-;Canas, Guanacaste;2
+-;Canaza de la parada antiguo yugo 1.5 km hacia la playa;2
+-;Capital;2
+-;Cariari, Pococi;2
+-;carmen;2
+-;carmona;2
+-;Carrizal, Alajuela;2
+-;Cartag0;2
+-;cartago jimenez pejibaye;2
+-;cartago province;2
+-;Cartago San Nicolas La Lima;2
+-;Cartago tres Rios;2
+-;Cartago- Costa Rica;2
+-;Cartago, Canton La Union;2
+-;Cartago, Cartago, Agua Caliente (San Francisco);2
+-;cartago, CR;2
+-;Cartago, Oreamuno, Cot;2
+-;Cartago, San Nicolas;2
+-;cartago, tejar;2
+-;cartago, tres rios la union;2
+-;Cartago, Turrialba, La Isabel;2
+-;Cartago,tres rios, La union;2
+-;Cartago/ El Guarco/ Tejar;2
+-;Cartago/La Union/San Rafael;2
+-;Cartago/San Rafael/Oreamuno;2
+-;cartaho;2
+-;Casa color gris metalizado;2
+-;casa cuba;2
+-;Casa esquinera;2
+-;casa porton blanco cerrado al lado de un lote;2
+-;CASADO (A);2
+-;catago;2
+-;catedral;2
+-;Catedral San Jose;2
+-;Catedral, San Jose;2
+-;Central Frente al Club Union;2
+-;centro america;2
+-;Chacarita, Puntarenas;2
+-;city mall alajuela;2
+-;ciudad colon;2
+-;Ciudad Neily;2
+-;Cocal;2
+-;coko;2
+-;Concepcion La Union;2
+-;Concepcion La union;2
+-;Concepcion, San Rafael, Heredia;2
+-;Concepcion, Tres Rios, Residencial Monserrat;2
+-;Condominio lomas de hidalgo casa 12;2
+-;Condominio Puerta de Hierro, 86;2
+-;coopa buena barrio kenedy;2
+-;COREOS DE COSTA RICA PZ;2
+-;correo grecia;2
+-;correos de costa rica;2
+-;correos de costarica;2
+-;Costa rica , puntarenas ,coto brus ,san vito;2
+-;Costa Rica ,Alajuela, Palmares;2
+-;Costa Rica / Alajuela / San Ramon;2
+-;Costa Rica / Cartago / San Nicolas;2
+-;Costa Rica /san jose /guadalupe;2
+-;Costa rica alajuela carrizal;2
+-;Costa Rica Alajuela San RAMON;2
+-;Costa Rica Atenas, barrio Jesus 300 metros entrada barroeta;2
+-;Costa Rica Guanacaste Carrillo Belen;2
+-;Costa rica Guanacaste Santa Cruz;2
+-;Costa Rica Limon;2
+-;Costa Rica Paraiso Cartago;2
+-;Costa Rica Puntarenas;2
+-;Costa Rica san Jose escazu;2
+-;Costa Rica,;2
+-;Costa Rica, Alajuela, Desamparados;2
+-;Costa Rica, Alajuela, palmares;2
+-;costa Rica, Alajuela, Zarcero;2
+-;Costa Rica, ciudad neily zona sur;2
+-;Costa Rica, Guanacaste,canas;2
+-;Costa Rica, Heredia;2
+-;Costa Rica, Limon, Pococi;2
+-;Costa Rica, Puntarenas, Esparza;2
+-;Costa Rica, Puntarenas, Esparza, san juan grande;2
+-;Costa Rica, San Jose, Acosta;2
+-;Costa Rica, San jose, barrio mexico;2
+-;Costa Rica, San Jose, Colon, san bosco;2
+-;Costa Rica, San Jose, Goicochea, Guadalupe;2
+-;Costa Rica, San Jose, Puriscal, Candelarita;2
+-;Costa Rica, San Jose, Puriscal.;2
+-;Costa Rica, San Jose, santiago puriscal;2
+-;Costa rica, Santa Cruz;2
+-;Costa Rica,Cartago, Central, San Blas;2
+-;Costa Rica/ Alajuela/ Alajuela;2
+-;Costa Rica/ Cartago/ La Union / San Rafael;2
+-;costa rica/ san jose/ san Ignacio de Acosta;2
+-;costa rica/alajuela/san ramon-piedades norte;2
+-;Costa Rica/Cartago/El Carmen;2
+-;Costa Rica/Limon/Limon;2
+-;Costa Rica/Limon/Limon/valle la estrella;2
+-;Costa Rica/Provincia de Guanacaste;2
+-;Costa Rica/Puntarenas/Golfito;2
+-;Costa rica/san jose/ vasquez de coronado san isidro;2
+-;Costa Rica/San Jose/Guadalupe;2
+-;costa rica/san jose/san jose;2
+-;Costa Rica/San Jose/Santa Ana;2
+-;CostaRica,Alajuela,Atenas;2
+-;Cot Oreamuno Cartago Costa Rica;2
+-;Cot, Oreamuno, Cartago.;2
+-;Coto Brus - Pubtarenas;2
+-;CR-H;2
+-;cuidad Neilly corredores;2
+-;Curridabat centro;2
+-;De pollo Juancho 50m sur;2
+-;De. Barrio carres, tango bar 50 mts norte y 100 este;2
+-;Del Bac credomatic 400 N y 50 E;2
+-;Dennis Alterno Avendano;2
+-;Desamparados, Dos cercas;2
+-;Desamparados.;2
+-;Desampardos, San Jose;2
+-;DULCE NOMBRE;2
+-;Edgardo Araya Ramirez;2
+-;el cocal;2
+-;El cocal, Puntarenas, Costa Rica;2
+-;El Guarco, Cartago;2
+-;El Quemado /cajon/perez zeledon/san jose.;2
+-;El Roble de Puntarenas;2
+-;El Tejar, del Guarco;2
+-;Empleado;2
+-;EN SUCURSAL;2
+-;encinales;2
+-;eredia;2
+-;Escazu, San Jose, Costa Rica;2
+-;Esparza centro;2
+-;Esparza Puntarenas Espiritu Santo;2
+-;Esparza, Puntarenas;2
+-;Filadelfia;2
+-;Flores, San Joaquin ,Heredia;2
+-;Formosa;2
+-;Frente al BCR, Uvita de Osa, Puntarenas 60504;2
+-;frente al mercado;2
+-;Garabito, Jaco;2
+-;General. Perez Zeledon. San Jose;2
+-;Goicoechea ,Mozotal;2
+-;Goicoechea Ipis La Facio;2
+-;Goicoechea, Calle Blancos;2
+-;Golfito Golfito;2
+-;gran area metropolitana, san Jose Central;2
+-;Granacaste;2
+-;gravilias;2
+-;Grecia / Alajuela;2
+-;Grecia Alajuela;2
+-;Grifo Alto;2
+-;Guachipelin Calle Mangos;2
+-;Guacima de Alajueja;2
+-;guacimo de limon;2
+-;Guacimo, Limon;2
+-;guadalupe mataplatano residencial estefania casa b 12;2
+-;Guadalupe San Jose;2
+-;Guadalupe, Goicoechea;2
+-;Guadalupe, San Jose;2
+-;Guaitil. Acosta. San jose.;2
+-;guanacaste carrillo;2
+-;guanacaste liberia;2
+-;Guanacaste, nicoya;2
+-;guanacaste,canas;2
+-;Guanacaste/ Carrilo/ Filadelfia;2
+-;Guanacaste/Tilaran/Distrito santa rosa;2
+-;Guanacasted;2
+-;guapiles limon;2
+-;guapiles/ pocosi/ limon;2
+-;Guatuso alajuela katira;2
+-;Guayabos de Curridabat;2
+-;Gunacaste;2
+-;Hacienda vieja;2
+-;harabito;2
+-;hatillo;2
+-;Hatillo 1, San Jose, Costa Rica, avenida 32, calle 42.;2
+-;Hatillo 2;2
+-;Hatillo 5;2
+-;hatillo 5;2
+-;Hatillo 8;2
+-;hatillo 8 alameda 20 casa 846;2
+-;Hatillo, San Jose, San Jose;2
+-;Herecia;2
+-;Heredia - Sarapiqui - Puerto Viejo;2
+-;Heredia central;2
+-;Heredia Costa Rica;2
+-;Heredia costarica;2
+-;Heredia Heredia Costa Rica;2
+-;heredia san pablo;2
+-;Heredia Sarapiqui La Virgen;2
+-;HEREDIA ulloa;2
+-;Heredia Ulloa Barreal;2
+-;Heredia, Barva, San Roque;2
+-;Heredia, Belen, La Ribera, Residencial Belen;2
+-;Heredia, canton central,distrito San Fco;2
+-;Heredia, Concepcion San Rafael;2
+-;Heredia, Flores, barrantes;2
+-;Heredia, San Pablo, La puebla;2
+-;Heredia, san rafael Barrio santiago;2
+-;heredia, santo domingo;2
+-;Heredia,Sarapiqui, Puerto Viejo;2
+-;Heredia. San Francisco;2
+-;Herradura,Jaco;2
+-;Hospital;2
+-;Huacas;2
+-;Jaco Puntarenas;2
+-;Jason J. Arauz Guido;2
+-;jicaral;2
+-;Jose;2
+-;Karina Aguilar Lacayo;2
+-;kolo;2
+-;La Asuncion de Belen;2
+-;La caporal;2
+-;La carpio;2
+-;La Guacima;2
+-;La guacima;2
+-;La Merced;2
+-;la pastora;2
+-;la rita guapiles;2
+-;La Suiza;2
+-;La tigra;2
+-;La Trinidad de Moravia;2
+-;La Union Tres Rios;2
+-;La Virgen;2
+-;Las Cruces;2
+-;Las Cruces San Pablo de Heredia;2
+-;LIBERIA;2
+-;liberia ,guanacaste,costarica;2
+-;limom, Pococi, Guapiles;2
+-;Limón;2
+-;limon guacimo;2
+-;limon pococi;2
+-;Limon provincia;2
+-;Limon, Matina;2
+-;limon, pococi, gupiles;2
+-;limon,pococi, colorado;2
+-;limon,Pococi,Cariari;2
+-;Llanos de santa lucia, Paraiso, cartago;2
+-;Los Angeles, San Rafael;2
+-;los chiles frontera norte frente migracion;2
+-;Los colegios de Moravia;2
+-;LOS GUIDO SECTOR #6;2
+-;Macacona;2
+-;Mansion;2
+-;Marco Mendez Arias;2
+-;Mariela Britos;2
+-;merced, san jose;2
+-;Mercedes norte Heredia;2
+-;mercedes sur;2
+-;Mercedes sur costado sur Bar la palma;2
+-;montecillos;2
+-;MONTES DE OCA;2
+-;Montes de oca;2
+-;montes de oca san pwdeo;2
+-;Mora - San Jose;2
+-;Mora Colon;2
+-;Mora/San Jose;2
+-;moravia san vicente;2
+-;moravia, san Jose, costa rica;2
+-;moravia, San Vicente;2
+-;Nandayure, Carmona, Guanacaste;2
+-;Nandayure, Guanacaste;2
+-;naranjo Alajuela;2
+-;Naranjo correos de costa rica;2
+-;Naranjo Lourdes;2
+-;naranjo san Miguel;2
+-;nicoya guanacaste nicoya;2
+-;Nicoya, Guanacaste, Costa Rica;2
+-;Nicoya/Guanacaste;2
+-;noreste;2
+-;Palmares, Alajuela;2
+-;Palmares/Alajuela;2
+-;Palmares/Alajuela/Costa Rica;2
+-;paraisa cartago;2
+-;parrita, Puntarenas.;2
+-;paso ancho.;2
+-;patalillo;2
+-;Pavas, san jose;2
+-;Pavas, San Jose, Costa Rica.;2
+-;Perez Zeledon, San Jose, Costa Rica;2
+-;Perez Zeledon,San Jose, Costa Rica;2
+-;Piedades de Santa Ana;2
+-;Piedades norte;2
+-;piedades, santa ana, san jose;2
+-;piedras blancas de osa zona sur;2
+-;Pilas de Bejuco;2
+-;Pital San Carlos Alajuela;2
+-;Pital,San Carlos,Alajuela;2
+-;playa tamarindo;2
+-;Playas del Coco, Guanacaste;2
+-;Playas del coco, Guanacaste, Costa Rica;2
+-;Poas, Alajuela;2
+-;Poasito;2
+-;Pococi Guapiles;2
+-;Pococi, Limon, Costa Rica;2
+-;pococi/Limon;2
+-;pococi/limon/guapiles;2
+-;pocosol;2
+-;porton negro;2
+-;provincia;2
+-;Provincia Alajuela;2
+-;Provincia de Alejuela;2
+-;provincia de cartago;2
+-;Provincia De Guanacaste;2
+-;provincia de limon;2
+-;provincia de San jose;2
+-;Provincia Guanacaste;2
+-;Provincia Limon;2
+-;Provincia: Alajuela, Canton: San Ramon, Distrito: Piedades Norte;2
+-;Provincia: Puntarenas;2
+-;pubtarenas;2
+-;Puerto limon costarica;2
+-;Puerto viejo;2
+-;puerto viejo;2
+-;Puerto viejo de talamanca;2
+-;Puntamorales;2
+-;Puntareanas;2
+-;Puntarenas . Province;2
+-;puntarenas 60101;2
+-;puntarenas corredores paso canoas;2
+-;puntarenas coto brus copa buena;2
+-;Puntarenas El Roble;2
+-;Puntarenas Garabito;2
+-;Puntarenas Osa;2
+-;puntarenas province;2
+-;Puntarenas Provincia;2
+-;Puntarenas, Buenos Aires, 75 mts sur Polideportivo, casa verde,;2
+-;Puntarenas, Buenos Aires, Boruca;2
+-;Puntarenas, Buenos Aires, Volcan.;2
+-;puntarenas, centro;2
+-;Puntarenas, Cobano;2
+-;Puntarenas, Corredores, Ciudad Neily;2
+-;Puntarenas, Coto Brus, San Vito;2
+-;Puntarenas, El Roble;2
+-;Puntarenas, Esparza, Espiritu Santo;2
+-;Puntarenas, Puntarenas, Barranca;2
+-;Puntarenas, Santa elena, Monteverde;2
+-;puntarenas,chacarita #3;2
+-;Puntarenas,Esparza, Espiritu Santo;2
+-;Puntarenas,garabitos;2
+-;Puntarenas/Central/Lepanto;2
+-;Puntarenas/corredores/canoas;2
+-;Puntares;2
+-;Puntenas;2
+-;puriscal pozos 75 este de la antigua pulperia la gaviota;2
+-;Puriscal/San Jose;2
+-;Purral;2
+-;Quepos puntarena;2
+-;Rhormoser;2
+-;Rincon de Salas Grecia;2
+-;Rio Blanco;2
+-;rio cuarto;2
+-;Rohrmoser/San Jose;2
+-;sabana mata redonda;2
+-;sabanilla montes de oca;2
+-;Saint Joseph;2
+-;salitrales;2
+-;Samara;2
+-;Samara, Guanacaste;2
+-;San Andres, calle el Almendro, segunda casa a la izquierda;2
+-;SAN ANTONIO;2
+-;San Antonio Barrio el Carmen;2
+-;San Antonio del tejar;2
+-;San Antonio el Roble;2
+-;San Antonio San Jose;2
+-;San Blas;2
+-;san buenaventura, Colorado, abangares Guanacaste;2
+-;san calos;2
+-;San Carlos , Alajuela;2
+-;San Carlos / Alajuela;2
+-;San Carlos, Alajuela, Costa Rica;2
+-;San Carlos, Alajuela.;2
+-;San Carlos, Ciudad Quesada;2
+-;san felipe,san jose,alajuelita;2
+-;San Francisco de Heredia;2
+-;San isidrio;2
+-;San isidro;2
+-;San Isidro de Coronado;2
+-;San isidro vasquez de coronado;2
+-;San Isidro, Daniel Flores;2
+-;San Isidro, Perez Zeledon, San Jose;2
+-;San Joaquin De Flores;2
+-;San Joaquin de Flores;2
+-;San Joe;2
+-;san jose , barrio escalante;2
+-;San jose , costa rica;2
+-;san jose , costa rica;2
+-;San jose , escazu, san antonio;2
+-;San Jose ,Tibas;2
+-;San Jose (para recoger en API por favor);2
+-;San Jose / Alajuelita Concepcion abajo;2
+-;San Jose / desamparados / San Miguel;2
+-;San Jose / Escazu;2
+-;San Jose Aserri vuelta de jorco los mangos;2
+-;San Jose Canton Central;2
+-;San Jose Central Mata Redonda;2
+-;San Jose centro;2
+-;San jose costa rica;2
+-;san jose costa rica frente al edificio Mira Zapote;2
+-;San Jose goicochea;2
+-;San jose goicoechea;2
+-;San Jose Goicoechea Guadalupe;2
+-;San Jose Guadalupe;2
+-;san jose guadalupe;2
+-;san jose hatillo 3, de la taqueria Costa rica 50 Oeste, 10norte;2
+-;San Jose Montes de Oca Sabanilla;2
+-;San Jose Mora Colon;2
+-;san jose mora colon;2
+-;san jose moravia;2
+-;San Jose o Pizote;2
+-;San jose perez zeledon san isidro;2
+-;san jose Province;2
+-;San Jose Provincie;2
+-;san jose puriscal;2
+-;san jose sabanill;2
+-;San jose San Antonio Escazu;2
+-;San Jose San Jose Hospital;2
+-;san jose-Alajuela-palmares-candelaria;2
+-;San Jose, Aserri;2
+-;San Jose, Aserri, Tarbaca;2
+-;San Jose, Barrio Mexico;2
+-;San Jose, Catrdral;2
+-;San Jose, Central, Hospital;2
+-;San Jose, Centro;2
+-;San Jose, Centroamerica, Costa Rica;2
+-;San Jose, Coronado;2
+-;San Jose, Costa Rica - 1000;2
+-;San Jose, Costa Rica-America Central.;2
+-;san jose, curidabat, curridabat;2
+-;San Jose, Curridabat, Curridabat;2
+-;San Jose, Curridabat, Tirrases urbanisacion la colina;2
+-;San Jose, Desamparados, San Antonio;2
+-;San Jose, Desamparados, San Juan de Dios;2
+-;San Jose, Desamprados, San Miguel;2
+-;San Jose, Goicochea, Calle Blancos;2
+-;San jose, Goicoechea purral;2
+-;San Jose, Guadalupe, Goicoechea;2
+-;san jose, merced, costa rica;2
+-;san Jose, montes de oca, sabanilla;2
+-;San Jose, Mora;2
+-;san jose, perez zeledon;2
+-;San jose, Perez Zeledon, San Isidro;2
+-;San Jose, Perez Zeledon, San Isidro.;2
+-;San Jose, Puriscal, Santiago;2
+-;San jose, sabana norte;2
+-;San Jose, San Francisco de Dos Rios entregar en el correo;2
+-;San Jose, San Jose Barrio lujan;2
+-;San Jose, San Jose, Desamparados, San Rafael Arriba;2
+-;San Jose, San jose, pavas;2
+-;San Jose, San Pedro Montes de Oca;2
+-;San jose, tibas, 5 esquinas;2
+-;San Jose, tibas, San juan, del estadio Ricardo saprissa 25m sur;2
+-;San Jose, Vazquez de Coronado, Patalillo;2
+-;San Jose, Zona de los santos;2
+-;San Jose,Escazu;2
+-;San Jose,Goicoechea;2
+-;SAN JOSE. PASO ANCHO;2
+-;San jose/ Alajuela/ San Ramon;2
+-;San Jose/ Curridabat/ Tirrases;2
+-;San Jose/ Goicoechea/Rancho Redondo;2
+-;San Jose/ Guadalupe / El Alto;2
+-;SAN JOSE/ SAN JOSE/ CATEDRAL;2
+-;San Jose/Catedral;2
+-;San Jose/Curridabat;2
+-;San Jose/Desamparados;2
+-;San Josr;2
+-;San Juan de Chicua;2
+-;San juan de san Isidro penas blanca san ramon Alajuela;2
+-;San juan La Union;2
+-;san marcos de Tarrazu;2
+-;SAN MIGUEL;2
+-;San Nicolas/Cartago/Costa Rica;2
+-;San pablo;2
+-;San Pablo centro;2
+-;San Pablo, Heredia;2
+-;San Pancracio;2
+-;San pedro , vargas araya;2
+-;San pedro de barva;2
+-;San pedro de montes de oac;2
+-;San pedro, alfaro, san ramon alajuela;2
+-;San Rafael Abajo, Desamparados;2
+-;San Rafael de Alajuela;2
+-;San Rafael De Alajuela Barrio Lourdes Calle Dona Maria 200mts;2
+-;San Rafael de Heredia;2
+-;San Rafael de Oreamuno Cartago;2
+-;san rafael santa ana san jose;2
+-;San Rafael/Heredia/Costa Rica;2
+-;san ramon de Alajuela, costa rica;2
+-;San Roque Grecia;2
+-;San Roque, Barva;2
+-;San vicente;2
+-;SAN VICENTE, MORAVIA;2
+-;San Vicente, Moravia, San Jose;2
+-;sanjose alajuelita tiribi;2
+-;Sanjose Coronado;2
+-;sanjose zapote;2
+-;Sann Jose Costa Rica;2
+-;Santa Ana, pozos;2
+-;Santa Ana, San Jose, Costa Rica.;2
+-;Santa barbara Centro;2
+-;Santa barbara Heredia;2
+-;santa cruz Guanacaste;2
+-;santa cruz guanacaste;2
+-;Santa Cruz/Guanacaste;2
+-;Santa Elena;2
+-;santa rosa de pocosol san carlos;2
+-;Santa Rosa, Santo Domingo;2
+-;Santiago, Palmares;2
+-;Santo Tomas Santo Domingo Heredia Costa Rica;2
+-;Sarchi /alajuela/ costa rica;2
+-;sdf sef;2
+-;sector balcon verde;2
+-;Siquirres, Limon;2
+-;Siquirres, limon;2
+-;SJ;2
+-;SJO;2
+-;Sucursal Correos de Costa Rica;2
+-;Sucursal de Correos de Costa Rica en el Roble de Puntarenas;2
+-;Sweetwater;2
+-;tabarcia;2
+-;Tacares;2
+-;Tacres, Grecia;2
+-;Taras, Cartago, Costa Rica;2
+-;tarrazu;2
+-;Tejar;2
+-;Tejar de El Guarco;2
+-;Tibas, cinco esquinas;2
+-;Tibas, san juan;2
+-;tilaran. guanacaste. costa rica;2
+-;Tirrases;2
+-;Tirrases de Curridabat;2
+-;Tobosi del Guarco;2
+-;Tobosi El Guarco;2
+-;tobosi,el guarco;2
+-;tot;2
+-;Tres Equis;2
+-;Turrialba Cartago Costa Rica;2
+-;TURRUBARES;2
+-;uetar norte;2
+-;Ulloa, Heredia, Heredia;2
+-;Urbanizacion El Robledal;2
+-;Urbanizacion Las Margaritas Llanos de Santa Lucia;2
+-;V;2
+-;vasquez de coronado san Isidro;2
+-;Vazques de coronado;2
+-;Venecia, San Carlos;2
+-;Villarreal, Guanacaste;2
+-;Zaragoza, Palmares;2
+-;zona sur;2
+Costa Rica;Cartago;1
+Costa Rica;Heredia;1
+Costa Rica;Puntarenas;1
+-;--Ninguno--;1
+-;.Puriscal .Correos de Costa Rica;1
+-;0002POCOCI LIMON;1
+-;04LIM0N;1
+-;004POCOCI LIMON;1
+-;005LIM0N;1
+-;05LIM0N;1
+-;006LIM0N;1
+-;006LIMON;1
+-;06LIMON;1
+-;07LIMON;1
+-;009LIMON;1
+-;18LIMON;1
+-;27 de abril;1
+-;30LIMON;1
+-;43LIMON;1
+-;055LIMON;1
+-;55LIMON;1
+-;69LIMON;1
+-;070LIMON;1
+-;77LIMON;1
+-;81LIMON;1
+-;089LIMON;1
+-;090LIMON;1
+-;090POCOCI LIMON;1
+-;96LIMON;1
+-;098LIMON;1
+-;099LIMON;1
+-;146LIMON;1
+-;157LIMON;1
+-;159LIMON;1
+-;200 metro norte empacadora de pollo codiproal calle a la jiralda;1
+-;200m sur del Rancho Coyoche y 450m noroeste de Arthurs Bar;1
+-;205LIMON;1
+-;273LIMON;1
+-;297LIMON;1
+-;312LIMON;1
+-;333LIMON;1
+-;340LIMON;1
+-;391LIMON;1
+-;450 norte efificio blanco a mano derecha;1
+-;453LIMON;1
+-;479LIMON;1
+-;506- 85102525;1
+-;527LIMON;1
+-;627LIMON;1
+-;698LIMON;1
+-;716LIMON;1
+-;739LIMON;1
+-;852LIMON;1
+-;880CARIARI;1
+-;983LIMON;1
+-;2200;1
+-;7051;1
+-;21013;1
+-;11490686;1
+-;60667170;1
+-;84730826;1
+-;88237292;1
+-;89943072;1
+-;Abanganres;1
+-;Abangares, Colorado;1
+-;Acosta, Guaitil;1
+-;Acosta/Cangrejal/ llano la mesa;1
+-;agua buena;1
+-;Agua caliente;1
+-;Agua calientes;1
+-;agua zarcas;1
+-;Aguas Zarcas;1
+-;Aguas zarcas;1
+-;Aguas Zarcas, San Carlos, Alajuela;1
+-;aguazarcas;1
+-;ala;1
+-;alaguela;1
+-;alajauela;1
+-;Alajdhei;1
+-;Alajuela , San Carlos;1
+-;Alajuela , San Carlos Ciudad Quesada;1
+-;Alajuela , San ramon;1
+-;Alajuela , San Ramon, Angeles;1
+-;Alajuela ,25 m south of the church El Carmen;1
+-;Alajuela .;1
+-;alajuela .;1
+-;alajuela / san carlos / costa rica;1
+-;Alajuela /San Ramon/Volio;1
+-;Alajuela Alajuela Alajuela;1
+-;Alajuela Alajuela barrio san Jose;1
+-;alajuela alajuela circular;1
+-;Alajuela Alajuela Tambor;1
+-;Alajuela b san jose coyol;1
+-;alajuela barrio san Jose pacto del jocote;1
+-;Alajuela centro ,tambor calle vargas;1
+-;alajuela correos de los chiles;1
+-;alajuela Costa Rica;1
+-;alajuela costa rica;1
+-;Alajuela costarica;1
+-;Alajuela el coyol;1
+-;Alajuela Grecia;1
+-;alajuela grecia;1
+-;alajuela llamarme antes de llegar 70510300;1
+-;Alajuela los chiles frontera Norte;1
+-;Alajuela naranjo rosario;1
+-;Alajuela Palmares Buenos Aires;1
+-;Alajuela palmares del super2 50 oeste 50 sur telefono 88457927;1
+-;Alajuela San carlos ciudad quesada;1
+-;Alajuela San Ramon Centro;1
+-;alajuela sancarlos florencia;1
+-;alajuela sarchi;1
+-;ALAJUELA-COSTA RICA;1
+-;Alajuela,;1
+-;Alajuela, Alajuela, Alajuela, Calle 5 Avenida 1;1
+-;Alajuela, Alajuela, Costa Rica;1
+-;Alajuela, Alajuela, rio segundo;1
+-;Alajuela, Alajuela, san Rafael;1
+-;Alajuela, Atenas, Santa Eulalia, Costa Rica;1
+-;Alajuela, Barrio San Jose;1
+-;Alajuela, Costa rica;1
+-;Alajuela, Costa Rica, San Ramon;1
+-;Alajuela, Costa Rica.;1
+-;Alajuela, CR;1
+-;Alajuela, El Erizo Alajuela;1
+-;Alajuela, grecia centro;1
+-;Alajuela, Grecia.;1
+-;Alajuela, la Guacima Rincon Herrera;1
+-;alajuela, palmares;1
+-;Alajuela, Palmares, Centro;1
+-;alajuela, palmares, Costa Rica;1
+-;Alajuela, Poas, San Juan;1
+-;Alajuela, Poas, San Rafael;1
+-;Alajuela, San Carlos , Ciudad Quesada;1
+-;Alajuela, San Carlos, Aguas zarcas;1
+-;Alajuela, San Carlos, Ciudad Quesada;1
+-;Alajuela, San Carlos, Florencia, Platanar;1
+-;Alajuela, San Rafael;1
+-;Alajuela, San Ramon;1
+-;Alajuela, San Ramon, Centro;1
+-;Alajuela, turrucares;1
+-;Alajuela, Valverde Vega;1
+-;Alajuela, Zarcero , Zarcero;1
+-;Alajuela,Alajuela,Turrucares;1
+-;Alajuela,Atenas;1
+-;Alajuela,san carlos,costa rica;1
+-;Alajuela,sarchi norte;1
+-;alajuela. san antonio;1
+-;Alajuela/ Alajuela / Costa rica;1
+-;Alajuela/La Garita;1
+-;Alajuela/Naranjo;1
+-;alajuela/naranjo/san Juan;1
+-;Alajuela/Palmares/Palmares;1
+-;Alajuela/San Antonio /Montecillos;1
+-;Alajuela/San Carlos/Aguas Zarcas;1
+-;Alajuela/Tambor/ Tuetal Norte;1
+-;Alajuela|San Carlos;1
+-;AlajuelaSan Carlos;1
+-;Alajuelita centro;1
+-;ALAJUELKA;1
+-;alejuela;1
+-;Alfaro;1
+-;alvarado cartago;1
+-;amarica central costa rica;1
+-;Amerca central;1
+-;anselmo Llorente Tibas;1
+-;Anselmo llorente, frente antigua tienda vinum store;1
+-;Apartado 2105-3000;1
+-;Apartamentos color papaya, frente antigua guarderia;1
+-;Aranjuez de puntarenas;1
+-;Aserri / Vuelta de Jorco;1
+-;aserri centro;1
+-;Asuncion;1
+-;atenas Alajuela;1
+-;Atenas, Alajuela, Costa Rica;1
+-;aurora de heredia ulloa;1
+-;av;1
+-;B. Union, Canas, Guanacaste.;1
+-;Bagaces;1
+-;bagaces Guanacaste Costa Rica;1
+-;Bahia-Ballena;1
+-;barranca;1
+-;barrio Baltazar;1
+-;Barrio cuba;1
+-;barrio del Carmen del salon de actos de la escuela 125 mts norte;1
+-;Barrio Espiritu Santo;1
+-;Barrio fecosa;1
+-;Barrio los cerros;1
+-;Barrio Lujan;1
+-;Barrio Mercedes;1
+-;Barrio Walter Cespedes;1
+-;Barva, San Roque;1
+-;Barva/Heredia/Costa Rica;1
+-;Baselland;1
+-;Bataan 15 millas;1
+-;Bataan Limon Costa Rica;1
+-;batan, Matina;1
+-;batan,limon;1
+-;Batan/Limon/Costa Rica;1
+-;bdbd;1
+-;Belen Heredia;1
+-;Belen, La Ribera;1
+-;Bijagua centro;1
+-;bin;1
+-;bjhg;1
+-;Boston, Matina;1
+-;Brasil calle cascante sexta casa color rosada al fondo;1
+-;Brisas;1
+-;bs;1
+-;btonx;1
+-;Buenos Aires, el Alto;1
+-;buenos aires, puntarenas, buenos aires;1
+-;Caballo Blanco, Cartago, Costa Rica;1
+-;Cachi de Paraiso Cartago;1
+-;calle blanco;1
+-;Calle blancos frente oficinas Amazon, San Jose,10804, Costa Rica;1
+-;Calle Blancos, Goicochea, Sa Jose;1
+-;Calle Hernandez, Los Angeles;1
+-;calle vieja a anonos;1
+-;Canas Guanacaste, Costa Rica;1
+-;Canoas;1
+-;Canton Alajuela;1
+-;Canton Central San Jose Costa Rica;1
+-;canton Montes de Oro. Distrito Miramar Provincia Puntarenas;1
+-;Canton: Alajuela, Distrito:Tambor;1
+-;Cariari Pococi Limon;1
+-;Cariari Pococi Limon Costa Rica;1
+-;carillo;1
+-;Carmona;1
+-;Carrillo Guanacaste;1
+-;Carrillo,Guanacaste;1
+-;Carrillo/Guanacaste,Palmira;1
+-;Carrillos Bajo;1
+-;Carrillos Bajo de Poas;1
+-;carrizal;1
+-;CARTAGE;1
+-;cartagena;1
+-;cartago - la union;1
+-;Cartago ,;1
+-;Cartago , Oreamuno;1
+-;cartago , tres rios , la union;1
+-;Cartago ,Paraiso;1
+-;Cartago Cartago;1
+-;cartago CR;1
+-;Cartago LA union;1
+-;Cartago La Union;1
+-;Cartago occidental;1
+-;Cartago oriental;1
+-;Cartago Oxidental;1
+-;Cartago paraiso;1
+-;cartago paraiso;1
+-;Cartago Paraiso Cervantes;1
+-;Cartago Paraiso Orosi;1
+-;cartago Province;1
+-;Cartago Province Costa Rica;1
+-;Cartago provincia;1
+-;cartago provincia;1
+-;Cartago Turrialba;1
+-;Cartago Turrialba Americas 2 casa 46;1
+-;Cartago Turrialba Carmen Lyra;1
+-;Cartago-Central;1
+-;Cartago, Aguacaliente;1
+-;Cartago, Central;1
+-;Cartago, La Union;1
+-;Cartago, la Union;1
+-;Cartago, oreamuno;1
+-;Cartago, San Francisco, Agua Caliente;1
+-;Cartago,Costa Rica.;1
+-;Cartago,Turrialba;1
+-;Cartago,Turrialba,San Juan Sur;1
+-;Cartago/Cartago/Guadalupe (Arenilla);1
+-;Cartago/Occidental;1
+-;Cartago/Oreamuno/San Rafael;1
+-;Cartago/Paraiso/ Llanos de Santa Lucia;1
+-;Cartago/Tejar;1
+-;Cartago/Turrialba/La suiza;1
+-;CartagoCartago;1
+-;cas;1
+-;Casa con fachaleta;1
+-;casa numero tres primera etapa;1
+-;Catargo;1
+-;central puntarenas;1
+-;central sur;1
+-;Central, Ulloa;1
+-;Centro America;1
+-;Centro America Costa Rica;1
+-;Centro America, Costa Rica;1
+-;Cervantes;1
+-;Cia Carbachez San Miguel de Naranjo;1
+-;Cipreses;1
+-;Ciruelas;1
+-;Ciudad colon mora;1
+-;ciudad colon, mora, san jose, costa rica;1
+-;Ciudad Colon, San Jose, Costa Rica;1
+-;ciudad cortes;1
+-;ciudad neily;1
+-;Ciudad Neily Puntarenas Corredores;1
+-;Ciudad quesada;1
+-;Ciudad quesada Alajuela;1
+-;Ciudad Quesada, San Carlos;1
+-;Ciudadela Cucubres;1
+-;colima;1
+-;concepcion;1
+-;Concepcion de San Isidro;1
+-;Concepcion de San Rafael de Heredia;1
+-;Concepcion, Alajuelita, San Jose. Entregar a Correos de CR;1
+-;Contiguo al super el buen precio, Donde PATO;1
+-;Coronado San Jose;1
+-;Corredores, Puntarenas;1
+-;correo de costa rica;1
+-;Correos Costa Rica Sucursal Naranjo;1
+-;correos de costa rica San antonio de belen heredia costa rica;1
+-;Correos de Costa Rica sede Siquirres;1
+-;Correos turrialba calle vieja;1
+-;Cosa;1
+-;Cost Rica;1
+-;COSTA RICA   PUNTARENAS   BARRANCA;1
+-;Costa Rica , Alajuela;1
+-;Costa Rica , alajuela;1
+-;Costa Rica , san jose;1
+-;Costa Rica / Guanacaste / Canas;1
+-;Costa Rica / Guanacaste / TILARAN;1
+-;costa rica / guanacaste / tilaran;1
+-;Costa Rica / Heredia / Ulloa;1
+-;Costa Rica / Puntarenas;1
+-;Costa Rica / San Jose / Desamparados;1
+-;Costa Rica /San Jose;1
+-;Costa Rica /San Jose/Tibas;1
+-;costa rica alajuela;1
+-;Costa Rica Alajuela Alajuela;1
+-;Costa Rica Alajuela Atenas;1
+-;Costa Rica Alajuela Naranjo;1
+-;COSTA RICA ALAJUELA PALMARES;1
+-;costa rica cartago bruma azul;1
+-;Costa Rica Cartago Santa Rosa;1
+-;Costa Rica Centroamerica;1
+-;COSTA RICA GUANACASTE;1
+-;Costa Rica Guanacaste canas;1
+-;costa rica guanacaste liberia;1
+-;Costa Rica Heredia;1
+-;Costa rica limon;1
+-;costa rica limon guacimo;1
+-;costa rica puerto viejo limon central america;1
+-;costa rica puntarenas miramar;1
+-;Costa Rica San jose Desamparados;1
+-;Costa Rica san Jose Puriscal;1
+-;Costa Rica San Jose Vazquez de Coronado;1
+-;Costa Rica siquirres;1
+-;Costa rica, alajuela;1
+-;Costa Rica, Alajuela, el Coyol;1
+-;Costa Rica, Alajuela, La Fortuna;1
+-;Costa rica, Alajuela, San Carlos, Pocosol;1
+-;Costa Rica, Alajuela,atenas.;1
+-;Costa Rica, Alajuela,Palmares;1
+-;Costa Rica, Cartago, Oreamuno;1
+-;costa rica, cartago, turrialba;1
+-;Costa Rica, Curridabat;1
+-;Costa Rica, Guanacaste , Nicoya;1
+-;Costa Rica, Guanacaste, canas;1
+-;Costa rica, Guanacaste, Nicoya;1
+-;Costa Rica, Gunacaste, Canas;1
+-;costa rica, Puntarenas;1
+-;Costa Rica, Puntarenas, Buenos Aires;1
+-;Costa Rica, puntarenas, el roble;1
+-;Costa Rica, Puntarenas, Monteverde;1
+-;Costa Rica, San Jose, Goicochea, Purral;1
+-;Costa Rica, San Jose, San Jose;1
+-;Costa Rica, San Jose, Santa Ana;1
+-;costa rica, san vito coto brus;1
+-;COSTA RICA, UPALA, Upala, Upala;1
+-;Costa Rica,Heredia,Santa Barbara;1
+-;costa rica,puntarenas;1
+-;costa Rica,puntarerenas, Puerto Jimenez;1
+-;Costa Rica.;1
+-;Costa Rica/ Guanacaste;1
+-;Costa Rica/ Guanacaste/ Liberia;1
+-;Costa Rica/ Puntarenas/ San Vito;1
+-;Costa Rica/Alajuela/Coyol;1
+-;Costa Rica/Heredia/Barva/Puentes Salas;1
+-;Costa Rica/Limon/Guapiles;1
+-;Costa Rica/Limon/Siquirres;1
+-;Costa Rica/San Jose/San Francisco de dos Rios;1
+-;costa Ricaalajuelasan carlos;1
+-;Costa RicaPuntarenasGolfito;1
+-;Costado oeste del parque,;1
+-;costarica patalillo;1
+-;costaRica,Alajuela,Atenas;1
+-;costarrica puntarenas el roble;1
+-;Cot;1
+-;coto;1
+-;Coyol;1
+-;coyolar;1
+-;CR;1
+-;CR-SJ;1
+-;cr-sj;1
+-;Cristi Rey de Brasilia;1
+-;Cuidad colon , san jose , costa rica;1
+-;Cuidad Neilly Puntarenas;1
+-;CURRIDABAT;1
+-;curridabat, granadilla;1
+-;Curridabat, San Jose, Costa Rica;1
+-;Curridabat, Tirrases;1
+-;Cutris;1
+-;dbdbdb;1
+-;De la caseta del guarda 150 Sur;1
+-;de la iglesia catolica 100 Sur y 100 este;1
+-;decimo noveno;1
+-;del restaurante fofos 150 oeste;1
+-;Desamoarados;1
+-;Desamparados Alajuela;1
+-;Desamparados de Alajuela, Urbanizacion Punta del Este casa 5E;1
+-;Desamparados san jose;1
+-;Desamparados, Desamparados;1
+-;Desamparados, San Miguel, Urbanizacion La Capri, casa AP8;1
+-;Desamparados,Gravilias;1
+-;desamparados,patarra;1
+-;Desamparados/SanJose/Costa Rica;1
+-;desamprados;1
+-;det;1
+-;DISTRITO CARMEN,SAN JOSE,10104;1
+-;Distrito Catedral;1
+-;Distrito La Isabel;1
+-;Distrito san joaquin de Flores;1
+-;Distrito San Sebastian;1
+-;distrito segundo;1
+-;Duacari;1
+-;dulce nombre;1
+-;Dulce nombre de cartago;1
+-;Dulce Nombre, Cartago;1
+-;Edificio OIJ, 5* piso, Oficina Asuntos Internos;1
+-;ef;1
+-;el carmen;1
+-;El Carmen Cartago;1
+-;El Coco;1
+-;El Coco/Guacima;1
+-;El humo de pejibaye, jimenez;1
+-;el roble;1
+-;el Roble de Puntarenas;1
+-;El Roble/Puntarenas;1
+-;El RoblePuntarenas;1
+-;El Rosario de Naranjo;1
+-;El tejar del Guarco;1
+-;entrada los olivos segunda casa a mano derecha;1
+-;ero;1
+-;escazu centro;1
+-;Escazu, San Rafael;1
+-;Esparza, Puntarenas, Costa Rica;1
+-;Esparza, puntarenas, espitu santo;1
+-;Esparza. Puntarenas;1
+-;Esparza/ macacona;1
+-;Esparza/Puntarenas/Espiritu Santo;1
+-;Espiritu Santo;1
+-;ezcasu;1
+-;FGHTYUJYT;1
+-;Filadelfia, Carrillo Guanacaste;1
+-;Filadelfia, Carrillo, Guanacaste Costa Rica;1
+-;Fiorella Prado Castro;1
+-;Florencia de San Carlos/Alajuela/Costa Rica;1
+-;flores;1
+-;Flores, Llorente;1
+-;fm;1
+-;frente al centro juridico san juan;1
+-;frontera norte Alajuela;1
+-;fun;1
+-;garabito;1
+-;Garabito, Puntarenas, CR;1
+-;Genesis Zamora Tencio;1
+-;Goicoechea, Purral;1
+-;Goicoechea, San Jose;1
+-;Goicohechea, Guadalupe, San Jose;1
+-;Golfito, Puntarenas, Costa Rica;1
+-;Granadilla;1
+-;Granadilla Norte de Curridabat;1
+-;granadilla norte de la curridabat;1
+-;Gravilias;1
+-;GRAVILIAS, DESAMPARADOS, SAN JOSE, COSTA RICA;1
+-;Grecia-Alajuela-tacares;1
+-;Grecia, Alajuela;1
+-;Grecia, Grecia centro;1
+-;Grecia,Alajuela;1
+-;Grecias/Alajuela/Costa Rica;1
+-;GUACIMO;1
+-;Guacimo,Limon,Costa Rica;1
+-;Guadaluoe;1
+-;GUADALUPE;1
+-;guadalupe , san jose , goicoechea;1
+-;Guadalupe Goicoechea Mata de Platano;1
+-;Guanacaate;1
+-;guanacasta;1
+-;Guanacaste , santa cruz , villareal tamarindo;1
+-;Guanacaste Abangares, Las Juntas, Bario La Colina;1
+-;Guanacaste Correos Costa Rica Santa Cruz;1
+-;guanacaste province;1
+-;Guanacaste Santa Cruz;1
+-;Guanacaste, Bagaces;1
+-;Guanacaste, Carrillo;1
+-;Guanacaste, Carrillo Palmira Comunidad;1
+-;Guanacaste, Carrillo, Palmira;1
+-;Guanacaste, La cruz, Santa Cecilia.;1
+-;Guanacaste, Liberia, Canas Dulces;1
+-;Guanacaste, Lista de Correos de Costa Rica;1
+-;Guanacaste, Nandayure, Carmona;1
+-;guanacaste,santacruz;1
+-;GuanacasteLiberia;1
+-;Guanacate Hojancha;1
+-;Guancaste, Nandayure, Carmona;1
+-;Guancaste, Nicoya;1
+-;Guancastes;1
+-;GUAPILES;1
+-;Guapiles , pococi;1
+-;guapiles centro de carteros 7211;1
+-;Guapiles Limon Pococi;1
+-;Guapiles limon pococi;1
+-;Guapiles Pococi Limon;1
+-;guatuso;1
+-;guavimo;1
+-;Guayabo de bagaces;1
+-;guayabo, bagaces, guanacaste, costa rica.;1
+-;guaycara;1
+-;Gudalupe;1
+-;H San Pablo;1
+-;hacas;1
+-;HATILLO;1
+-;hatillo #8;1
+-;Hatillo 3;1
+-;hbbb;1
+-;Helpless;1
+-;herdia;1
+-;Heredia , Costa Rica;1
+-;Heredia / belen / san antonio;1
+-;Heredia / Mercedes Sur;1
+-;heredia 250 oste municipalidad santa barbara;1
+-;Heredia Barva;1
+-;Heredia DO NOT USE MOOVIN please;1
+-;Heredia province;1
+-;Heredia Provincia;1
+-;heredia san isidro san isidro;1
+-;Heredia San Rafael;1
+-;heredia santa barbara jesus;1
+-;heredia santa barbara san juan;1
+-;Heredia santa lucia de barva;1
+-;Heredia, Central, Ulloa;1
+-;heredia, costa rica;1
+-;Heredia, Heredia, Mercedes;1
+-;Heredia, Heredia, Mercedes Norte;1
+-;Heredia, Heredia, Ulloa;1
+-;heredia, mercedes norte 75 norte colegio claretiano;1
+-;Heredia, mereces norte;1
+-;Heredia, San Francisco, San isidro;1
+-;Heredia, San Jose Costa Rica;1
+-;Heredia, San Pablo, La Puebla;1
+-;Heredia, San Roque.;1
+-;Heredia, Santa Barbara, San Juan;1
+-;Heredia, Santo Domingo, San Miguel;1
+-;heredia, sarapiqui;1
+-;Heredia, Sarapiqui, Puerto Viejo;1
+-;Heredia, Ulloa, San Francisco, urbanizacion Arbol de Plata;1
+-;Heredia,Ulloa;1
+-;Heredia.;1
+-;Heredia/ San Pablo/ Rincon de sabanilla;1
+-;Heredia/Heredia/Heredia;1
+-;Heredia/Heredia/Mercedes Norte;1
+-;Heredia/Santa Barbara/San Pedro;1
+-;Herradura;1
+-;herradura, garabito, puntarenas;1
+-;higuito del guarco;1
+-;hjhb;1
+-;HOJANCHA;1
+-;hojancha guanacaste;1
+-;Hojncha guanacaste;1
+-;Homeless/San Jose/Costa Rica;1
+-;Horquetas Sarapiqui;1
+-;Huetar Norte;1
+-;invu 2;1
+-;Ipis;1
+-;ipis, Goicoechea san jose;1
+-;Ipis, San Jose, Costa Rica;1
+-;Jardines 2;1
+-;Jaris de mora;1
+-;JDVSIW JSS;1
+-;Jesly Leiton;1
+-;Jesus Juarez;1
+-;Jimenez, Cartago;1
+-;jimenez, guapiles, costa rica;1
+-;jorco san jose;1
+-;js;1
+-;Jsvejw;1
+-;Juan Otarola;1
+-;Juan Pablo Segundo;1
+-;jzns;1
+-;L1IiM0N;1
+-;la;1
+-;la aurora;1
+-;La Aurora condominio Vilma;1
+-;La Colonia, Limon, Guapiles;1
+-;LA CRUZ;1
+-;La cruz Guanacaste costa rica;1
+-;La Cruz/Guanacaste/La Cruz;1
+-;la fortuna;1
+-;la fortuna de San Carlos;1
+-;la fortuna san carlos alajuela;1
+-;La merced;1
+-;La Palma Puerto Jimenez;1
+-;La Pitahaya;1
+-;La Pithaya;1
+-;LA PRADERA;1
+-;La Ribera Belen Heredia;1
+-;La Rita Pococi,Guapiles.;1
+-;la Teresa;1
+-;la teresa;1
+-;la union ,Cartago;1
+-;La Union / Concepcion;1
+-;la Union Concepcion;1
+-;La Union Tres Rios, Recidencial Estancia Antigua Casa L2;1
+-;La Union, Cartago;1
+-;la uruca;1
+-;La Virgen, Sarapiqui ,Heredia;1
+-;Labajdod;1
+-;labrador;1
+-;las;1
+-;Las Juntas;1
+-;Las juntas;1
+-;Las juntas de abangares;1
+-;Las juntas,abangares,guanacaste;1
+-;Las Juntas/Abangares/Guanacaste;1
+-;Las nubes, vasquez de Coronado;1
+-;leon cortez, Santa cruz;1
+-;Lepanto, Jicaral;1
+-;lflfmkn;1
+-;lh;1
+-;Libano;1
+-;Liberia centeo;1
+-;Liberia, Guanacaste.;1
+-;Lima;1
+-;Limon -;1
+-;limon barrio pueblo nuevo;1
+-;limon bataan;1
+-;limon costa rica;1
+-;Limon Guapiles;1
+-;limon guapiles pococi;1
+-;limon limon;1
+-;Limon limon limon;1
+-;Limon pococi Cariari;1
+-;limon Pococi la Rita;1
+-;limon prince;1
+-;Limon Provincia;1
+-;limon provincia;1
+-;limon talamanca;1
+-;limon villa del mar;1
+-;limon, costa rica;1
+-;Limon, guapiles;1
+-;limon, guapiles pococi;1
+-;limon, limon, limon;1
+-;limon, Pococi;1
+-;Limon, Siquirres;1
+-;Limon, Siquirres, Barrio los Laureles;1
+-;Limon, Siquirres, San Isidro;1
+-;limon,Matina;1
+-;limon,matina,b-line;1
+-;limon,matina,bataan;1
+-;LIMON,Siquirres;1
+-;Limon/Pococi;1
+-;Limon/pococi/guapiles;1
+-;limon/pococi/guapiles;1
+-;LimonCR;1
+-;Liverpool;1
+-;Llanos de Santa Lucia;1
+-;Local comercial RPM S.A.;1
+-;lopes mateos;1
+-;Los angeles;1
+-;los Angeles;1
+-;los angeles;1
+-;Los Angeles de Santo Domingo;1
+-;Los chiles;1
+-;Los Chiles frontera Norte, Alajuela;1
+-;Los lagos;1
+-;lourdes;1
+-;luis ricardo martinez gonzalez;1
+-;mad;1
+-;Marichal de Orotina, Alajuela, Costa Rica;1
+-;mas;1
+-;masd;1
+-;matina;1
+-;Matina, Puerto Limon;1
+-;Matina,Limon;1
+-;Matina/Limon;1
+-;mer;1
+-;Miraflores;1
+-;MIramar /Puntarenas /Montes de oro;1
+-;Miramar de Puntarenas;1
+-;Miramar Montes de Oro;1
+-;Miramar Montes de Oro Puntarenas;1
+-;Miramar Puntarenas;1
+-;miramar puntarenas;1
+-;Mogote;1
+-;Mogote, Guayabo Bagaces Guanacaste;1
+-;mon;1
+-;Monserrat;1
+-;monte verde;1
+-;Montes de Oca, San Jose;1
+-;Montes de Oca, San Pedro;1
+-;Montes de Oca, San Rafael;1
+-;montes de oca, san Rafael;1
+-;Montes de Oca/San Jose/Costa Rica;1
+-;Montes de oro;1
+-;Montes de Oro, Puntarenas;1
+-;Montes de Oro, Puntarenas, Costa Rica;1
+-;monteverde Puntarenas;1
+-;Moravia San Jeronimo;1
+-;Moravia, El Alto de la Trinidad;1
+-;Moravia, San Vicente;1
+-;Moravia,San Vicente, Po Box 44-2150;1
+-;naranjito puntarenas costa rica;1
+-;Naranjo Alajuela;1
+-;Naranjo, Alajuela, San Jeronimo;1
+-;Naranjo,Alajuela;1
+-;Naranjo/Alajuela/Costa Rica;1
+-;Nicoya Guanacaste Costa Rica;1
+-;Norte;1
+-;Nosara, Playa Guiones Sur;1
+-;Nuevo Arenal, Guanacaste;1
+-;Ochomogo, Cartago;1
+-;oe y;1
+-;Oficina de Correos Costa Rica, Zapote;1
+-;Oficinas Centrales del Banco Scotiabank;1
+-;oreamuno cartago;1
+-;Oreamuno, Cartago;1
+-;Oreamuno/Cartago/Cot;1
+-;Orosi;1
+-;Orosi, Paraiso;1
+-;orotina ,edificio grupo mutual o a correos de costarrica orotina;1
+-;Orotina / Alajuela / Costa Rica;1
+-;Orotina Alajuela;1
+-;Orotina/Alajuela;1
+-;Osa/Puntarenas/palmar sur;1
+-;Osvaldo Villalobos;1
+-;Other;1
+-;Outside US;1
+-;Pacuarito de Siquirres;1
+-;Pais Costa Rica , America Central, Provincia Puntarenas;1
+-;Palenque Tonjibe Maleku;1
+-;Palmar norte;1
+-;palmar sur Puntarenas costa rica;1
+-;palmares alajuela costa rica;1
+-;Palmares Alajuela Zaragoza;1
+-;palmares de Alajuela;1
+-;paraido;1
+-;paraiso cartago;1
+-;Paraiso, Cartago;1
+-;Paraiso,Cartago;1
+-;Paraiso/Cartago;1
+-;parque 125 metros noroeste Frente Panaderia Kaldi 2 pisos crema;1
+-;Parrita Puntarenas;1
+-;Parrita, Puntarenas, Costa Rica;1
+-;Paseo 2;1
+-;Pasito;1
+-;PATALILLO;1
+-;Pavas San jose;1
+-;Pavas, San Jose, Costa Ric;1
+-;pavas, San jose, costa Rica;1
+-;pavon;1
+-;pavones;1
+-;Pejibaye Perez Zeledon San Jose;1
+-;perez;1
+-;Perez zeledon, san isidro de el general;1
+-;Perez Zeledon, San Isidro, El general;1
+-;Perez Zeledon, San Jose, Costa Rica.;1
+-;Perez Zeledon/San Jose/Costa Rica;1
+-;Piedades;1
+-;Piedades Sur;1
+-;Piedades, Santa Ana, San Jose, Costa Rica;1
+-;Piedades/Santa Ana/ San Jose;1
+-;pilas;1
+-;Pina Frut caseta de ingreso, 2 Klms Oeste liceo del humo;1
+-;Pital San Carlos;1
+-;pital san carlos;1
+-;platanares;1
+-;Playa Samara;1
+-;Playas del coco;1
+-;Playon Sur;1
+-;Poas de Alajuela;1
+-;Poas de alajuela;1
+-;Poas, San Rafael;1
+-;Poc0ci Lim0n;1
+-;Pococi Guapiles Jimenez;1
+-;Pococi Guapiles Limon;1
+-;Pococi,;1
+-;Pococi, Cariari;1
+-;Pococi,Limon;1
+-;pococi,limon,cariari;1
+-;Pococi/limon/Guapiles;1
+-;Pocora, Guacimo, Limon;1
+-;Pocosi;1
+-;Pozos de Santa Ana;1
+-;Pozos Santa Ana;1
+-;Pozos Santa Ana, Calle Las Palmas;1
+-;provicia numero 2;1
+-;provincia Alajuela;1
+-;Provincia De Alajuela;1
+-;Provincia de Guanacaste, Sardinal de Carrillo;1
+-;Provincia de heredia;1
+-;Provincia de Puntarenas Osa;1
+-;Provincia de San jose;1
+-;provincia guanacaste;1
+-;Provincia Puntarenas;1
+-;provincia Puntarenas;1
+-;provincia puntarenas;1
+-;provincia san jose canton Mora distrito ciudad colon;1
+-;Provinvia Alajuela, Canton alajuela, Distrito San Jose;1
+-;Pueblo Civil;1
+-;Puente de Piedra;1
+-;Puerto Jimenez;1
+-;puerto jimenez;1
+-;puerto jimenez, puntarenas;1
+-;puerto limon costa Rica;1
+-;puerto moreno de Quebrada honda;1
+-;Puerto Viejo;1
+-;Puerto Viejo de Sarapiqui;1
+-;Puerto Viejo Sarapiqui;1
+-;Puerto Viejo Sarapiqui, Heredia, Costa Rica;1
+-;Puerto viejo Talamanca;1
+-;puerto Viejo, Sarapiqui, Heredia;1
+-;Pumtarenas;1
+-;Punatrenas;1
+-;punta arenas;1
+-;Puntaneras;1
+-;puntaranas;1
+-;PUNTArenas;1
+-;puntarenas , cobano;1
+-;Puntarenas , Garabito;1
+-;puntarenas ,osa, piedras blancas;1
+-;Puntarenas centro;1
+-;puntarenas chacarita;1
+-;puntarenas Costarica;1
+-;Puntarenas Esparza;1
+-;Puntarenas Esparza Centro;1
+-;Puntarenas Garabito playa Jaco;1
+-;Puntarenas Garbito;1
+-;PUNTARENAS PUERTO JIMENEZ PUERTO JIMENEZ;1
+-;Puntarenas Puntarenas barranca;1
+-;puntarenas, buenos aires Gollo;1
+-;Puntarenas, Canton Central de Puntarenas, Distrito Barranca;1
+-;Puntarenas, Chacarita;1
+-;Puntarenas, corredores;1
+-;Puntarenas, Corredores, Corredor;1
+-;Puntarenas, corredores, corredor;1
+-;puntarenas, el cocal.;1
+-;Puntarenas, Esparza;1
+-;Puntarenas, Garabito, Tarcoles, Quebrada Ganado.;1
+-;Puntarenas, Lepanto;1
+-;Puntarenas, Montes de Oro;1
+-;Puntarenas, Osa, Palmar Norte;1
+-;Puntarenas, Palmar Norte, Osa.;1
+-;Puntarenas, Puntarenas;1
+-;Puntarenas, puntarenas barranca;1
+-;Puntarenas, Quepos, Aguirre;1
+-;Puntarenas,Corredores, Cuidad Neily;1
+-;puntarenas,corredores,paso canoas;1
+-;Puntarenas,costa rica.;1
+-;Puntarenas,Golfito,Golfito;1
+-;Puntarenas,Parrita ,Correos de Costa Rica;1
+-;puntarenas,puntarenas,lepanto;1
+-;Puntarenas/ Garabito/ Jaco;1
+-;puntarenas/barranca/riojalandia;1
+-;puntarenas/corredores/ciudad Neily;1
+-;Puntarenas/Puntarenas/El Roble;1
+-;Puntarenas/Quepos/Naranjito;1
+-;Puntarenasn;1
+-;Puntares,Rio Grande;1
+-;Punteras;1
+-;Puriscal-Santiago;1
+-;Puriscal, San Jose;1
+-;Puriscal, San Jose, Costa Rica;1
+-;Purral, Goicochea, San Jose;1
+-;putarenas;1
+-;qel;1
+-;qp;1
+-;Quepos manuel antonio;1
+-;Quesada, Alajuela, Costa Rica;1
+-;Quesada/Alajuela/Costa Rica;1
+-;RAFAEL VEGA SEGURA;1
+-;Region central;1
+-;region central;1
+-;Region Central Occidental de Costa Rica;1
+-;region Limon;1
+-;Residencial Arroyo;1
+-;Rio blanco;1
+-;Rio Cuarto, Rio Cuarto;1
+-;Rio de ora, Nandayure;1
+-;Rivas;1
+-;Roble el Progreso;1
+-;Roble puntarenas;1
+-;Roble, Puntarenas;1
+-;Romusher;1
+-;Sa Jose;1
+-;Sabanill de Montes de Oca, San Jose;1
+-;Sabanilla - Montes de Oca;1
+-;Sabanilla de Montes de Oca;1
+-;Sabanilla. Montes de Oca;1
+-;sabanilla/alajuela/fraijanes;1
+-;sagrada familia;1
+-;saint jose;1
+-;Samara guanacaste nicoya;1
+-;San;1
+-;san andres;1
+-;San Antonio Belen,heredia;1
+-;San Antonio de Alajuelita. San Jose.;1
+-;San antonio de belen;1
+-;san antonio de belen;1
+-;san antonio de belen heredia;1
+-;San Antonio de Belen Heredia, Costa Rica .;1
+-;San Antonio de Coronado, Patalillo;1
+-;san blas;1
+-;San Blas Cartago;1
+-;San Blas de Sardinal, Carrillo;1
+-;San Carlos , Ciudad Quesada;1
+-;san carlos alajuela;1
+-;san carlos pital copeisabel;1
+-;San Carlos, Alajuela Costa Rica;1
+-;san carlos, alajuela, cuidad quesada;1
+-;San Carlos, Ciudad Quesada, Sucre;1
+-;San Carlos, Costa Rica;1
+-;San Carlos.;1
+-;San Francisco 2 Rios;1
+-;San Francisco de 2 Rios;1
+-;San Francisco de dos Rios;1
+-;San Francisco de dos rios;1
+-;San Francisco Heredia;1
+-;San Ignacio, Acosta;1
+-;san Isidro;1
+-;SAN ISIDRO DE EL GENERAL;1
+-;San Isidro de el General;1
+-;San Isidro de Perez Zeledon;1
+-;san Isidro del general;1
+-;san isidro del general;1
+-;San Isidro Perez Zeledon;1
+-;San Isidro Perez Zeledon San Jose;1
+-;san isidro Tacacori;1
+-;San Isidro, Coronado;1
+-;San Isidro, Heredia;1
+-;San Isidro, Perez Zeledon;1
+-;san Jeronimo;1
+-;san joae;1
+-;san joaquin;1
+-;San Joaquin de flores;1
+-;San Joaquin flores;1
+-;San joquin Flores;1
+-;san Jos;1
+-;San JOSE;1
+-;San Jose - Canton Central;1
+-;san jose , Desamparados Fatima;1
+-;San Jose , Mora, Colon;1
+-;san jose , san jose , pavas;1
+-;san jose ,central;1
+-;San jose ,desamparados,san juan de Dios;1
+-;San Jose / Costa Rica;1
+-;San Jose / san Rafael arriba;1
+-;san jose / Tibas/ cuatro Reinas;1
+-;san jose /mora/tabarcia;1
+-;San Jose /Moravia/ san vicente;1
+-;San Jose /Puriscal/ Mercedes Sur;1
+-;SAN JOSE /SAN JOSE/ DESAMPARADOS;1
+-;San jose Alajuelita;1
+-;san jose alajuelita la aurora urbanizacion bera cruz;1
+-;San Jose Alajuelita sucursal;1
+-;San Jose Aserri;1
+-;san jose barrio Mexico;1
+-;san jose cartagotejar;1
+-;San Jose Centro;1
+-;San Jose Coronado;1
+-;San Jose costa Rica;1
+-;San Jose costa rica;1
+-;san Jose Costa Rica;1
+-;san jose costa rica.;1
+-;san jose costarica;1
+-;San Jose Curridabat;1
+-;san jose curridabat;1
+-;San Jose curridabat Barrio La Lia;1
+-;San Jose Curridabat Sanchez;1
+-;San Jose Curridabat tirrases;1
+-;San Jose Curridabat, Jose Maria Zeledon;1
+-;San jose Desamparados;1
+-;san jose desamparados calle fallas;1
+-;San Jose Desamparados Fatima;1
+-;San Jose Desamparados San Miguel;1
+-;san jose desamparados san miguel los guidos;1
+-;San Jose Dota;1
+-;San Jose Escazu;1
+-;San Jose Fatima Desamparados;1
+-;San Jose Goicoechea;1
+-;san jose Guadalupe Goicoechea;1
+-;San Jose Guadalupe Vista de mar;1
+-;San Jose hatillo;1
+-;San Jose Mata Redonda;1
+-;San Jose Montes de Oca San Pedro;1
+-;San Jose Moravia La Trinida;1
+-;San Jose Norte;1
+-;San Jose para recoger en API por favor;1
+-;San jose pavas;1
+-;San Jose pavas centro del Colegio Suri 100Oeste y 25 Norte;1
+-;San Jose Perez Zeledon;1
+-;San Jose province;1
+-;San José Province;1
+-;san jose Puriscal Santiago;1
+-;san jose san jose;1
+-;san jose san jose zapote;1
+-;san jose san marcos de tarrazu;1
+-;San jose san pedro;1
+-;SAN JOSE SAN SEBASTIAN;1
+-;san jose sanjose sanfrancisco dos rios;1
+-;San Jose Santa Ana;1
+-;san jose tibas leon 13;1
+-;San Jose Uruca;1
+-;san jose zapote correo de costa rica;1
+-;San Jose-Costa Rica;1
+-;san jose-zapote;1
+-;San Jose, Alajuelita correos de Costa Rica;1
+-;san jose, aserri, salitrillos;1
+-;San Jose, Carmen;1
+-;San Jose, Central, Hatillo;1
+-;san jose, curridabat, cipreses;1
+-;San Jose, Curridabat, Tirrases;1
+-;San jose, desampadados;1
+-;SAN JOSE, DESAMPARADOS, FRAILES.;1
+-;san jose, desamparados, san miguel el hu;1
+-;san jose, desamparados, san miguel el huazo;1
+-;san jose, Desamparados, san Rafael arriba;1
+-;San Jose, Escazu;1
+-;San Jose, escazu, San Rafael;1
+-;San Jose, Escazu.;1
+-;San Jose, Goicoechea, Purral, Los Cuadros;1
+-;San Jose, Guadalupe;1
+-;San jose, Hatillo;1
+-;San Jose, Hospital;1
+-;San Jose, Los Guido;1
+-;San Jose, Montes de Oca, Sabanilla;1
+-;San jose, mora, guayabo;1
+-;San Jose, Mora.;1
+-;San Jose, Perez Zeledon, Daniel Flores;1
+-;san Jose, Perez Zeledon, san isidro del General;1
+-;san jose, perez zeledon, san Isidro del general;1
+-;San Jose, Purral;1
+-;san jose, san jose la uruca;1
+-;san Jose, san Jose, pavas;1
+-;San Jose, San Jose, Pavas.;1
+-;San Jose, San Jose, San Sebastian;1
+-;San jose, San jose,Hatillo;1
+-;San Jose, San Pablo de Leon Cortes. San Francisco.;1
+-;San Jose, San sebastian, Urb. Pavi;1
+-;San Jose, San Vicente de Moravia;1
+-;san jose, Tibas, Colima;1
+-;San Jose, Vasquez de Coronado, Patalillo;1
+-;San Jose, Vazquez de Coronado;1
+-;San Jose, Vazquez de Coronado, San Isidro;1
+-;San Jose, Zapote;1
+-;San jose, zapote;1
+-;San Jose, Zapote, Barrio San Dimas;1
+-;San Jose,Costa Rica;1
+-;San Jose,Costa Rica.;1
+-;san jose,desamparados ,san rafael abajo;1
+-;San Jose,Hatillo;1
+-;San Jose,Hatillo Centro;1
+-;san jose,perez zeledon,san isidro del general;1
+-;san jose,tarrazu;1
+-;San Jose. Montes de Oca. San Rafael;1
+-;San Jose. San Francisco, Sauces.;1
+-;San Jose. San Jose. San Sebastian.;1
+-;san jose';1
+-;San jose/ canton vazquez de coronado;1
+-;San jose/ costa rica/goicoechea;1
+-;San Jose/ Curridabat / Sanchez;1
+-;San Jose/ Desamparados / Guatuso;1
+-;San Jose/ Desamparados /Desamparados;1
+-;San Jose/ Escazu /San Antonio;1
+-;San Jose/ hatillo 8;1
+-;san jose/ pavas;1
+-;San Jose/ San Fancisco de dos Rios/ La Pacifica;1
+-;San Jose/ San Jose/ Alajuelita;1
+-;San Jose/ San Jose/ Pavas;1
+-;San Jose/ Santa Marta/ calle siles;1
+-;San Jose/Costa Rica;1
+-;San Jose/Curridabat/Curridabat;1
+-;San Jose/curridabat/curridabat;1
+-;San Jose/Desamparados/Damas;1
+-;San jose/Desamparados/San miguel/Higuito;1
+-;San jose/escazu;1
+-;San Jose/Montes de Oca;1
+-;San Jose/Montes de Oca/San Pedro;1
+-;San jose/mora;1
+-;San Jose/Mora/Guayabo;1
+-;San Jose/Perez Zeledon;1
+-;San Jose/San Jose;1
+-;san jose/tibas/llorente;1
+-;san josecito alajuelita sanjose;1
+-;San Josecito de San Isidro de Heredia;1
+-;San Josecito de San Rafael;1
+-;San Josh;1
+-;San Juan , Tibas avenida 49;1
+-;San Juan / Santa Barbara/ Heredia;1
+-;San Juan de Dios;1
+-;San Juan de Dios de Desamparados;1
+-;san Juan de Dios de desamparados;1
+-;San juan Santa Barbara;1
+-;San Juan, Santa Barbara;1
+-;San Juan/ Santa Barbara/ Heredia;1
+-;San Lorenzo;1
+-;san lorenzo damas desamparados;1
+-;San Lorenzo de Flores;1
+-;San Lorenzo de Flores.;1
+-;San Luis, Guacimo de Limon;1
+-;san marcos;1
+-;san Marcos de tarrazu;1
+-;san marcos tarrazu;1
+-;San Marcos Tarrazu , San José , Costa Rica;1
+-;san mateo;1
+-;San Mateo centro costado oeste plaza de deportes.;1
+-;San Miguel de Desamparados San Jose Costa Rica;1
+-;San Miguel Santo Domingo Heredia;1
+-;San miguel santo domingo heredia;1
+-;San Miguel, Escazu;1
+-;san Nicolas;1
+-;San Nicolas de Cartago;1
+-;San Nicolas Taras;1
+-;san pablo de barba;1
+-;San Pablo de Leon cortes;1
+-;San Pablo Miraflores;1
+-;San Pablo, Heredia, Costa Rica;1
+-;SAN PEDRO BARRIO DENT AUTOMERCADO LOS YOSES;1
+-;San pedro de poas;1
+-;San pedro de poas Alajuela;1
+-;San Pedro se Poas;1
+-;San Pedro, San Pedro, Montes de Oca;1
+-;San Pedro/Barva/Heredia;1
+-;san Rafael;1
+-;San rafael , los angeles;1
+-;San Rafael 150 sur del liceo San Rafael, barrio San Isidro;1
+-;San Rafael abajo de desamparados;1
+-;san rafael abajo desamparados;1
+-;San Rafael Alajuela;1
+-;San rafael arriba;1
+-;San Rafael de Coronado;1
+-;SAN RAFAEL DE ESCAZU;1
+-;San Rafael De Heredia;1
+-;San Rafael de heredia;1
+-;San rafael de Oreamuno;1
+-;San Rafael Heredia;1
+-;San Rafael, Barrio Lourdes;1
+-;San Rafael, carretera a Los Angeles;1
+-;San Rafael, Heredia;1
+-;San Rafael. Santiago;1
+-;San Rafal;1
+-;san Ramon;1
+-;SAN RAMON ALAJUELA;1
+-;San Ramon Alajuela Costa Rica;1
+-;San Ramon, Alajueja, Costa Rica;1
+-;San Vicente, Moravia;1
+-;San Vito ,Coto Brus, Puntarenas,Costa rica;1
+-;San Vito Coto Brus;1
+-;san vito coto brus;1
+-;San Vito Coto Brus, Puntarenas;1
+-;SAN VITO DE COTO BRUS, PUNTARENAS;1
+-;San Vito, Coto Brus, Puntarenas;1
+-;san.jose;1
+-;Sanata;1
+-;sancarlos, alajuela, venecia;1
+-;Sanchez, Curridabat;1
+-;Sando Jose;1
+-;Sanjose uruca;1
+-;sanjuan abajo;1
+-;Santa Ana Salitral;1
+-;Santa Ana San Jose Costa Rica;1
+-;Santa Ana, Salitral, San Rafael;1
+-;Santa Ana, San Jose;1
+-;Santa ana,Rio oro;1
+-;Santa Barbara de Heredia Costa Rica;1
+-;Santa Barbara Heredia;1
+-;Santa Barbara, Heredia;1
+-;Santa Cecilia, La Cruz;1
+-;Santa Clara, Florencia;1
+-;Santa Cruz Turrialba;1
+-;Santa Cruz, Guanacaste, Costa Rica;1
+-;Santa Cruz,Guanacaste,Costa Rica;1
+-;Santa Cruz. Guanacaste;1
+-;Santa Elena, Monteverde;1
+-;Santa Fe;1
+-;Santa Gertrudis Sur;1
+-;Santa Lucia de Barva;1
+-;Santa maria de dota;1
+-;santa marta;1
+-;Santa Martha;1
+-;SAnta rosa;1
+-;santa rosa pocosol san carlos;1
+-;SANTIAGO PURISCAL;1
+-;Santo dlmingo;1
+-;Santo Domingosan Antonio de coronado;1
+-;Sarapiqui, Puerto Viejo.;1
+-;Sarchi , alajuela;1
+-;Sarchi alajuela costa rica;1
+-;sarchi de Alajuela;1
+-;sarchi norte;1
+-;sarchi norte Valverde Vega;1
+-;Sarchi Norte, Alajuela, CR;1
+-;Sardinal, Carrillo, Guanacaste;1
+-;SDF EWF;1
+-;Siquirres de limon;1
+-;Siquirres/Limon/Costa Rica;1
+-;Siquirres/Pacuarito/San Luis;1
+-;SJ Vasquez de coronado;1
+-;sjsjsjjss;1
+-;sjsn;1
+-;slsndk;1
+-;Soltero;1
+-;South Bend;1
+-;Ssn Jose;1
+-;Ssn Jose, Mora, Ciudad Colon;1
+-;St. Joseph;1
+-;Sucursal correos de Costa Rica oficina siquirres;1
+-;Sucursal Correos de Costa Rica Santiago de Puriscal;1
+-;Tabarcia;1
+-;Tabarcia Mora;1
+-;Taller;1
+-;Tamarindo;1
+-;tarbaca;1
+-;Tejar de el Guarco;1
+-;TEJAR DEL GUARCO CARTAGO COSTA RICA 75 MTS NORTE DEL BAR AMIGOS;1
+-;Tejar,el guarco;1
+-;tibas San jose;1
+-;Tibas San Jose Anselmo Llorente;1
+-;tibas, anselmo llorente;1
+-;Tibas, Cuatro Reinas;1
+-;Tilaran, Tronadora;1
+-;Tilaran,Gte;1
+-;tilaran.Guanacaste.Tierras morenas;1
+-;Tobosi del guarco;1
+-;Toro Amarillo, Sarchi, Alajuela, Costa Rica;1
+-;Triangulo de Pavas;1
+-;Trinidad de Moravia;1
+-;Trujillo;1
+-;Turriaba;1
+-;turrialba Cartago;1
+-;Turrialba, Cartago;1
+-;Turrialba, Cartago Costa Rica;1
+-;Turrialba, La Suiza;1
+-;Turrialba/Cartago/Costa Rica;1
+-;Uer;1
+-;ulloa;1
+-;ulloa heredia;1
+-;Ulloa, Lagunilla;1
+-;Universidad de Costa Rica, sede Rodrigo Facio Brenes.;1
+-;Urb. Los Romilios, Casa 12F;1
+-;urbanisacion 11 de Abril;1
+-;Urbanizacion Caliche.;1
+-;Urbanizacion F&M;1
+-;USA;1
+-;Uvita;1
+-;Valle Azul;1
+-;valverde vega;1
+-;valverde vega, alajuela;1
+-;Vanderhoof;1
+-;Vaquez de Coronado;1
+-;Vasquez Coronado, Patalillo, Costa Rica;1
+-;vasquez de Coronado.san jose;1
+-;Vazquez de coranado;1
+-;Vazquez De Coronado;1
+-;vazquez de coronado, san jose;1
+-;Vazquez de Coronado, San Jose, Costa Rica;1
+-;Venecia , San Carlos , Alajuela Costa Rica;1
+-;Venecia de San Carlos;1
+-;Venecia, Alajuela;1
+-;villa;1
+-;villa esperanza;1
+-;Villa Fontana;1
+-;Villa los Reyes, Costado este del abastecedor Logico, Casa #28g;1
+-;Villa Nueva;1
+-;vuelta de jorco aserri;1
+-;Vuelta de jorco de aserri;1
+-;xhxj;1
+-;Yoses sur;1
+-;ZAPOTE;1
+-;Zapote San Jose Costa Rica;1
+-;Zapote.;1
+-;Zaragoza Palmares;1
+-;ZARCERO;1
+-;Zona de los Santos;1
+-;Zona franca zeta , tejar, Cartago, empresa PREINSA;1
+-;ZONA INDUSTRIAL DE PAVAS;1
